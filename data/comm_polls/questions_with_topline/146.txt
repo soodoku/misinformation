@@ -1,0 +1,15 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 7:50:36 PM UTC
+------------------------------------------------------------
+Gallup Poll [February, 2015]
+
+From what you have read or heard, do you personally think certain vaccines do--or do not--cause autism in children, or are you unsure?
+
+6%	Yes, a cause
+41%	No, not a cause
+52%	Unsure
+
+Methodology: Conducted by Gallup Organization February 28-March 1, 2015, and based on telephone interviews with a national adult sample of 1,015. Interviews were conducted with respondents on landline telephones and cellular phones. The sample includes 50% landline and 50% cell phone respondents. [USGALLUP.030615.R03]
+Dataset: USAIPOGNS2015-TR0228
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

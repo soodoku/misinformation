@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 25, 2017 4:51:33 AM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Political Typology Re-interview Survey [April, 2011]
+
+And one last question to get your view on a topic that has been in the news...Was Barack Obama born in the United States or was he born in another country?
+
+55%	United States
+23%	Another country
+22%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International April 7-April 10, 2011, and based on telephone interviews with a national adult sample of 1,432. The respondents were originallyinterviewed in the Political Typology Survey in Survey A Feb. 22-Mar. 1, 2011 with 1504 respondents, or Survey B Mar. 8-14, 2011 with 1525 respondents for a total combined sample of 3029 respondents. [USPSRA.050411R.R06]
+Dataset: USPEW2011-TYPOCB
+Variable: QCB6
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

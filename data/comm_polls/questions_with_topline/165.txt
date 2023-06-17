@@ -1,0 +1,18 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 11:49:40 PM UTC
+------------------------------------------------------------
+PIPA/Knowledge Networks Poll [August, 2004]
+
+Which of the following comes closest to your impression of what the Bush administration is currently saying the relationship was, just before the war, between the Iraqi government under Saddam Hussein and the terrorist group al-Qaeda?...There was no connection at all.  A few al-Qaeda individuals visited Iraq or had contact with Iraqi officials, but Iraq did not give substantial support to al-Qaeda.  Iraq gave substantial support to al-Qaeda, but was not involved in the September 11th (2001 terrorist) attacks (on the World Trade Center and the Pentagon).  Iraq was directly involved in carrying out the September 11th attacks.
+
+3%	There was no connection at all
+18%	A few al-Qaeda individual visited Iraq or had contact with Iraqi officials, but Iraq did not give substantial support to al-Qaeda
+43%	Iraq gave substantial support to al-Qaeda, but was not involved in the September 11th (2001 terrorist) attacks (on the World Trade Center and the Pentagon)
+27%	Iraq was directly involved in carrying out the September 11th attacks
+9%	No answer
+
+Methodology: Conducted by Program On International Policy Attitudes, University of Maryland August 5-August 11, 2004, and based on online interviews with a national adult sample of 733. The poll was fielded by Knowledge Networks using its national panel which is randomly selected from the entire national population and subsequently provided Internet access, if needed. [USUMARY.082004.R19]
+Dataset: USUMARY2004-08
+Variable: Q19
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

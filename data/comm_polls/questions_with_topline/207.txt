@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 25, 2017 4:45:06 AM UTC
+------------------------------------------------------------
+Pew Weekly News Interest Index Poll [April, 2011]
+
+Is it your best guess that (Barack) Obama was born in the United States, or in another country?
+
+40%	United States
+31%	Another country
+21%	Don't know/No opinion
+8%	No answer/Refused
+
+Subpopulation: Asked of those who answered Don't know/No opinion/No answer/Refused about where Obama was born (21%)
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International April 28-May 1, 2011, and based on telephone interviews with a national adult sample of 1,006. 675 respondents were interviewed on a landline telephone, and 331 were interviewed on a cell phone, including 150 who had no landline telephone. [USPSRA.2011WK0428.Q01A]
+Dataset: USPEW2011-WK0428
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

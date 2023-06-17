@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 9:19:32 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Political Knowledge Update Survey [March, 2009]
+
+(Now I would like to ask you about some things that have been in the news recently.  Not everyone will have heard of them.)...Since the start of military action in Iraq, about how many US (United States) military personnel have been killed?  To the best of your knowledge, have there been...around 2,300, around 3,300, around 4,300 or around 5,300 troop deaths?
+
+12%	Around 2,300
+22%	Around 3,300
+38%	Around 4,300 (Correct)
+26%	Around 5,300
+2%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Opinion Research Corporation March 26-March 29, 2009, and based on telephone interviews with a national adult sample of 1,003.  [USORC.040209P.R08]
+Dataset: USPEW2009-03UPDATE
+Variable: Q8
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

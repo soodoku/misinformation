@@ -1,0 +1,24 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:07:52 AM UTC
+------------------------------------------------------------
+PRRI/RNS Religion News Survey [May, 2012]
+
+Do you happen to know what...Barack Obama's religion is?  Is he Protestant, Catholic, Jewish, Mormon, Muslim, something else, or is he not religious?
+
+25%	Protestant
+5%	Catholic
+*%	Jewish
+1%	Mormon
+16%	Muslim
+*%	Something else
+3%	Not religious
+8%	Christian (Vol.)
+41%	Don't know what his religion is
+*%	Refused
+
+Survey by PRRI, Religion News Service
+Methodology: Conducted by Public Religion Research Institute May 2-May 6, 2012, and based on telephone interviews with a national adult sample of 1,006. Interviews were conducted by Social Science Research Solutions. [USPRRI.12RELNEWSMAY.R04A]
+Dataset: USPRRI2012-05
+Variable: Q4A
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

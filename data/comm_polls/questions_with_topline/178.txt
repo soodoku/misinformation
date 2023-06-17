@@ -1,0 +1,18 @@
+iPOLL Search Results -- Downloaded: July 13, 2017 7:53:38 PM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [March, 2013]
+
+(I'm going to read you a list of specific elements or parts of the (2010 health reform) law.  For each, please tell me whether you think it is included in the health reform law, or not.) To the best of your knowledge, would you say the health reform law does or does not...establish a government panel to make decisions about end-of-life care for people on Medicare?
+
+40%	Yes, law does this
+39%	No, law does not do this
+21%	Don't know/Refused
+
+Subpopulation: Asked of Form A half sample
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International March 5-March 10, 2013, and based on telephone interviews with a national adult sample of 1,204. 602 respondents were interviewed on a landline telephone, and 602 were interviewed on a cell phone, including 315 who had no landline telephone. [USPSRA.13HTPMAR.R09B]
+Dataset: USPSRA2013-HNI118
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

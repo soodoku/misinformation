@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 11:19:19 PM UTC
+------------------------------------------------------------
+Pew News Interest Index Poll [June, 2005]
+
+Since the start of military action in Iraq, about how many U.S. (United States) soldiers have been killed?  To the best of your knowledge, has it been under 500, 500 to 1000, 1000 to 2000, or more than 2000?
+
+4%	Under 500
+13%	500 to 1,000
+54%	1,000 to 2,000 (Correct)
+24%	More than 2,000
+5%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International June 8-June 12, 2005, and based on telephone interviews with a national adult sample of 1,464.  [USPSRA.061305.R25]
+Dataset: USPEW2005-06NII
+Variable: Q25
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

@@ -1,0 +1,18 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 7:39:57 PM UTC
+------------------------------------------------------------
+NBC News/Wall Street Journal Poll [June, 2004]
+
+(Based on what you have learned, please tell me whether you believe each of the following is true or is not true.)... Iraq had weapons of mass destruction
+
+54%	True
+37%	Not true
+9%	Not sure
+
+Subpopulation: Asked of Form A half sample
+
+Survey by NBC News, Wall Street Journal
+Methodology: Conducted by Hart and Teeter Research Companies June 25-June 28, 2004, and based on telephone interviews with a national registered voters sample of 1,025.  [USNBCWSJ.04JUNE.R26C]
+Dataset: USNBCWSJ2004-6044
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 13, 2017 7:33:45 PM UTC
+------------------------------------------------------------
+CBS News/New York Times Poll [May, 2007]
+
+Compared to American citizens, how likely do you think illegal immigrants are to commit crimes--are illegal immigrants more likely, less likely or about as likely to commit crimes as American citizens?
+
+30%	More likely
+14%	Less likely
+53%	About as likely
+3%	Don't know/No answer
+
+Methodology: Conducted by CBS News/New York Times May 18-May 23, 2007, and based on telephone interviews with a national adult sample of 1,125.  [USCBSNYT.052407A.R58]
+Dataset: USCBSNYT2007-05A
+Variable: Q58
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

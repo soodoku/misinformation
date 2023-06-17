@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 25, 2017 4:35:42 AM UTC
+------------------------------------------------------------
+CNN/ORC International Poll [September, 2015]
+
+(On another subject, where was Barack Obama born, as far as you know?)(If No opinion, ask:) Is it your best guess that Obama was born in the United States, or in another country? (If Another country, ask:) Do you think there's solid evidence of that, or is that your suspicion only?
+
+59%	Honolulu/Hawaii
+4%	America/Unites States (other specific place)
+17%	America/United States (general)
+9%	Solid evidence Obama born in another country
+11%	Suspicion only Obama born in another country
+1%	No opinion
+
+Survey by Cable News Network
+Methodology: Conducted by ORC International September 4-September 8, 2015, and based on telephone interviews with a national adult sample of 1,012. The sample included 612 interviews among landline respondents and 400 interviews among cell phone respondents. [USORC.091315.R37]
+Dataset: USORCCNN2015-009
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

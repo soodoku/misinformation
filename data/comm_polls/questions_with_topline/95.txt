@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 10:51:19 PM UTC
+------------------------------------------------------------
+Gallup/CNN/USA Today Poll [June, 2004]
+
+Do you think Saddam Hussein was personally involved in the September 11th (2001) terrorist attacks (on the World Trade Center and the Pentagon), or not?
+
+44%	Yes, was involved
+51%	No, was not
+5%	No opinion
+
+Subpopulation: Asked of Form A half sample
+
+Survey by Cable News Network, USA Today
+Methodology: Conducted by Gallup Organization June 21-June 23, 2004, and based on telephone interviews with a national adult sample of 1,005.  [USGALLUP.04JUN21.R24]
+Dataset: USAIPOCNUS2004-21
+Variable: Q24
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

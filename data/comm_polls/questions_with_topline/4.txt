@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:28:34 AM UTC
+------------------------------------------------------------
+Gallup Poll [April, 2011]
+
+Do you think Barack Obama was definitely born in the United States, probably born in the United States, probably born in another country, definitely born in another country, or don't you know enough to say?
+
+38%	Definitely born in US
+18%	Probably born in US
+15%	Probably born in another country
+9%	Definitely born in another country
+19%	Don't know enough to say
+1%	No answer
+
+Methodology: Conducted by Gallup Organization April 20-April 23, 2011, and based on telephone interviews with a national adult sample of 1,013. Interviews were conducted with respondents on landline telephones and cellular phones. [USGALLUP.11MAY005TR.R01]
+Dataset: USAIPOUSA2011-07
+Variable: Q28A
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

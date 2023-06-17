@@ -1,0 +1,18 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 11:57:06 PM UTC
+------------------------------------------------------------
+PIPA/Knowledge Networks Poll [February, 2003]
+
+Please select what you think is the best description of the relationship between the Iraqi government and the terrorist group al-Qaeda....There is no connection at all, a few al-Qaeda individuals have visited Iraq or had contact with Iraqi officials, Iraq has given substantial support to al-Qaeda, but was not involved in the September 11th (2001 terrorist) attacks (on the World Trade Center and the Pentagon), Iraq was directly involved in carrying out the September 11th attacks
+
+7%	There is no connection at all
+29%	A few al-Qaeda individuals have visited Iraq or had contact with Iraqi officials
+36%	Iraq has given substantial support to al-Qaeda, but was not involved in the September 11th attacks
+20%	Iraq was directly involved in carrying out the September 11th attacks
+8%	Refused
+
+Methodology: Conducted by Program On International Policy Attitudes, University of Maryland February 1-February 15, 2003, and based on online interviews with a national adult sample of 3,163. The poll was fielded by Knowledge Networks using its national panel which is randomly selected from the entire national population and subsequently provided Internet access, if needed. [USUMARY.200302.Q48]
+Dataset: USUMARY2003-02
+Variable: Q48
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

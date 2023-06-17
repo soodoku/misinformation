@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 7:50:06 PM UTC
+------------------------------------------------------------
+Arguments for War Survey [January, 2003]
+
+As far as you know, does Iraq now have...nuclear weapons, or not?
+
+41%	Yes
+24%	No
+36%	Don't know/Refused
+
+Survey by Knight Ridder
+Methodology: Conducted by Princeton Survey Research Associates January 3-January 6, 2003, and based on telephone interviews with a national adult sample of 1,204.  [USPSRA.03ARGWAR.R08A]
+Dataset: USPSRA2003-22099
+Variable: Q8A
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

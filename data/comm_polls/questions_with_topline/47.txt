@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 3:14:52 AM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [January, 2015]
+
+I'm going to read you a list of specific elements or parts of the law. For each, please tell me whether you think it is something the law does, or not. To the best of your knowledge, would you say the (2010) health reform law does or does not...provide financial help to low and moderate income Americans who don't get insurance through their jobs to help them purchase coverage?
+
+63%	Yes, law does this
+30%	No, law does not do this
+6%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International January 15-January 21, 2015, and based on telephone interviews with a national adult sample of 1,503. 751 respondents were interviewed on a landline telephone, and 752 were interviewed on a cell phone, including 450 who had no landline telephone. [USPSRA.012815K.R13A]
+Dataset: USPSRA2015-HNI137
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

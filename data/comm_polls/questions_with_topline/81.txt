@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 1:12:46 AM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [September, 2013]
+
+(I'm going to read you a list of specific elements or parts of the law.  For each, please tell me whether you think it is included in the (2010) health reform law, or not.) To the best of your knowledge, would you say the health reform law does or does not...provide financial help to low and moderate income Americans who don't get insurance through their jobs to help them purchase coverage?
+
+63%	Yes, law does this
+25%	No, law does not do this
+12%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International September 12-September 18, 2013, and based on telephone interviews with a national adult sample of 1,503. 752 respondents were interviewed on a landline telephone, and 751 were interviewed on a cell phone, including 410 who had no landline telephone. [USPSRA.092813.R20D]
+Dataset: USPSRA2013-HNI122
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

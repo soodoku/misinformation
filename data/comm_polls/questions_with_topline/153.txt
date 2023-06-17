@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 11:04:17 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Political Knowledge Survey [February, 2008]
+
+(Now I would like to ask you about some things that have been in the news recently.  Not everyone will have heard of them.)...Since the start of military action in Iraq, about how many US (United States) military personnel have been killed?  To the best of your knowledge, have there been...around 2,000, around 3,000, around 4,000, or around 5,000?
+
+11%	Around 2,000
+35%	Around 3,000
+28%	Around 4,000
+23%	Around 5,000
+3%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Opinion Research Corporation February 28-March 2, 2008, and based on telephone interviews with a national adult sample of 1,003.  [USORC.031208P.R04]
+Dataset: USPEW2008-02UPDATE
+Variable: QP4
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 9:13:59 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Poll [November, 2010]
+
+(Next I'd like to ask about some things that have been in the news.  Please answer as best as you can.  If you don't know the answer just tell me and we'll move to the next question.)...The federal government loaned money to banks under the bank bailout program known as TARP (Troubled Asset Relief Program).  How much of that money has been paid back to the government?...All of it, more than half of it, less than half of it, none of it
+
+4%	All of it
+16%	More than half of it (Correct)
+36%	Less than half of it
+16%	None of it
+28%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International November 11-November 14, 2010, and based on telephone interviews with a national adult sample of 1,001. 670 respondents were interviewed on a landline telephone, and 331 were interviewed on a cell phone, including 136 who had no landline telephone. [USPSRA.111810.R10]
+Dataset: USPEW2010-WK1111
+Variable: PEW10
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

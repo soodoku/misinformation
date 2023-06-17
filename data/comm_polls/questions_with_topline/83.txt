@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 1:37:45 AM UTC
+------------------------------------------------------------
+Kaiser/Harvard The Public's Health Care Agenda for the 112th Congress Survey [January, 2011]
+
+Do you think health care costs nationally are rising faster than the overall rate of inflation, slower than the overall rate of inflation, or at about the same rate?
+
+63%	Faster
+3%	Slower
+30%	About the same rate
+4%	Don't know
+*%	Refused
+
+Survey by Henry J. Kaiser Family Foundation, Harvard School of Public Health
+Methodology: Conducted by Social Science Research Solutions January 4-January 14, 2011, and based on telephone interviews with a national adult sample of 1,502. 1000 respondents were interviewed on landline telephones, and 502 were interviewed on cell phones, including 203 who had no landline telephone. [USSSRS.11HLTHAG.R23]
+Dataset: USICR2011-POL020
+Variable: QN23
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

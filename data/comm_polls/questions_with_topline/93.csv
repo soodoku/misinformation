@@ -1,0 +1,5 @@
+QuestionID,RespTxt,RespPct,QuestionTxt,QuestionNote,SubPopulation,ReleaseDate,SurveyOrg,SurveySponsor,SourceDoc,BegDate,EndDate,ExactDates,SampleDesc,SampleSize,IntMethod,StudyNote 
+"USPSRA.03ARGWAR.R08B","Yes","62","As far as you know, does Iraq now have...chemical or biological weapons?","","","01/31/2003","Princeton Survey Research Associates","Knight Ridder","Arguments for War Survey","01/03/2003","01/06/2003","Y","national adult","1204","telephone","" 
+"USPSRA.03ARGWAR.R08B","No","9","As far as you know, does Iraq now have...chemical or biological weapons?","","","01/31/2003","Princeton Survey Research Associates","Knight Ridder","Arguments for War Survey","01/03/2003","01/06/2003","Y","national adult","1204","telephone","" 
+"USPSRA.03ARGWAR.R08B","Don't know/Refused","29","As far as you know, does Iraq now have...chemical or biological weapons?","","","01/31/2003","Princeton Survey Research Associates","Knight Ridder","Arguments for War Survey","01/03/2003","01/06/2003","Y","national adult","1204","telephone","" 
+Number of items downloaded: 1

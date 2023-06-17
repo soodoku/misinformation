@@ -1,0 +1,21 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:19:45 AM UTC
+------------------------------------------------------------
+CNN/ORC International Poll [September, 2015]
+
+Do you happen to know what religion Barack Obama is? Is he Protestant, Catholic, Jewish, Mormon, Muslim, something else, or not religious?
+
+39%	Protestant/Christian
+4%	Catholic
+1%	Jewish
+2%	Mormon/Church of Latter Day Saints
+29%	Muslim/Islam/Islamic
+1%	Something else
+11%	Not religious
+14%	No opinion
+
+Survey by Cable News Network
+Methodology: Conducted by ORC International September 4-September 8, 2015, and based on telephone interviews with a national adult sample of 1,012. The sample included 612 interviews among landline respondents and 400 interviews among cell phone respondents. [USORC.091315.R34]
+Dataset: USORCCNN2015-009
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

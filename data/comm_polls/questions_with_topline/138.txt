@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 10:54:39 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Poll [February, 2015]
+
+Thinking about vaccines for diseases such as measles, mumps, and rubella, do you think these vaccines are safe for healthy children or are they not safe for healthy children?
+
+83%	Safe for healthy children
+9%	Not safe for healthy children
+7%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International February 5-February 8, 2015, and based on telephone interviews with a national adult sample of 1,003. 501 respondents were interviewed on a landline telephone, and 502 were interviewed on a cell phone, including 300 who had no landline telephone. [USPSRA.020915.R04]
+Dataset: USPEW2015-WK0205
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

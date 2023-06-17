@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 13, 2017 7:49:09 PM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [February, 2013]
+
+Thinking again about the 2010 health care law...to the best of your knowledge, would you say the health care law does or does not...allow undocumented immigrants to receive financial help from the government to buy health insurance?
+
+42%	Yes, law does this
+35%	No, law does not do this
+23%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International February 14-February 19, 2013, and based on telephone interviews with a national adult sample of 1,209. 602 respondents were interviewed on a landline telephone, and 607 were interviewed on a cell phone, including 321 who had no landline telephone. [USPSRA.13HTPFEB.R06A]
+Dataset: USPSRA2013-HNI117
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

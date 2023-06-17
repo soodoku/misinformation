@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 9:46:58 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Political Knowledge Update Survey [March, 2009]
+
+(Now I would like to ask you about some things that have been in the news recently.  Not everyone will have heard of them.)...Do you happen to know if the Dow Jones Industrial Average is currently closer to...3,000, 5,000, 8,000 or 11,000?
+
+20%	3,000
+14%	5,000
+40%	8,000 (Correct)
+4%	11,000
+22%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Opinion Research Corporation March 26-March 29, 2009, and based on telephone interviews with a national adult sample of 1,003.  [USORC.040209P.R03]
+Dataset: USPEW2009-03UPDATE
+Variable: Q3
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

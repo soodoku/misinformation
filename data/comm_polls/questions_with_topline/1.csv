@@ -1,0 +1,5 @@
+QuestionID,RespTxt,RespPct,QuestionTxt,QuestionNote,SubPopulation,ReleaseDate,SurveyOrg,SurveySponsor,SourceDoc,BegDate,EndDate,ExactDates,SampleDesc,SampleSize,IntMethod,StudyNote 
+"USSELZER.092616.R12","Was born in US","75","Do you think President Barack Obama was or was not born in the United States?","","","09/26/2016","Selzer & Co.","Bloomberg","Bloomberg Poll","09/21/2016","09/24/2016","Y","national adult","1002","telephone","The interviews were conducted by landline and cell phones." 
+"USSELZER.092616.R12","Was not born in US","11","Do you think President Barack Obama was or was not born in the United States?","","","09/26/2016","Selzer & Co.","Bloomberg","Bloomberg Poll","09/21/2016","09/24/2016","Y","national adult","1002","telephone","The interviews were conducted by landline and cell phones." 
+"USSELZER.092616.R12","Not sure","14","Do you think President Barack Obama was or was not born in the United States?","","","09/26/2016","Selzer & Co.","Bloomberg","Bloomberg Poll","09/21/2016","09/24/2016","Y","national adult","1002","telephone","The interviews were conducted by landline and cell phones." 
+Number of items downloaded: 1

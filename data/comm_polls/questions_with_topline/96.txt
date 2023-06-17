@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 8:35:33 PM UTC
+------------------------------------------------------------
+Gallup/CNN/USA Today Poll [June, 2004]
+
+Do you think Saddam Hussein did--or did not--have long-established ties to Osama bin Laden's terrorist organization known as al Qaeda?
+
+67%	Yes, did
+28%	No, did not
+5%	No opinion
+
+Subpopulation: Asked of Form B half sample
+
+Survey by Cable News Network, USA Today
+Methodology: Conducted by Gallup Organization June 21-June 23, 2004, and based on telephone interviews with a national adult sample of 1,005.  [USGALLUP.04JUN21.R25]
+Dataset: USAIPOCNUS2004-21
+Variable: Q25
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

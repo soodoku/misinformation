@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 3:08:26 AM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [March, 2015]
+
+(I'm going to read you a list of specific elements or parts of the law. For each, please tell me whether you think it is something the law does, or not.) To the best of your knowledge, would you say the (2010) health reform law does or does not...create health insurance exchanges or marketplaces where small businesses and people who don't get coverage through their employers can shop for insurance and compare prices and benefits?
+
+66%	Yes, law does this
+25%	No, law does not do this
+8%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International March 6-March 13, 2015, and based on telephone interviews with a national adult sample of 1,503. 600 respondents were interviewed on a landline telephone, and 903 were interviewed on a cell phone, including 498 who had no landline telephone. [USPSRA.031915K.R08D]
+Dataset: USPSRA2015-HNI138
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

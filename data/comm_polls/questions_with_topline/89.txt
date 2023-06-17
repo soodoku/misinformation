@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 2:01:23 AM UTC
+------------------------------------------------------------
+Princeton Survey Research Associates International/Newsweek Poll [June, 2007]
+
+(Next I'd like to ask about some things that have been in the news.  Please answer as best you can.  If you don't know the answer just tell me and we'll move to the next question.)...Which one of the following countries did most of the 9/11 (September 11, 2001) hijackers (that attacked the World Trade Center and the Pentagon) come from?...Saudi Arabia, Iraq, Iran, Syria
+
+43%	Saudi Arabia (correct)
+20%	Iraq
+14%	Iran
+11%	Syria
+12%	Don't know/Refused
+
+Survey by Newsweek
+Methodology: Conducted by Princeton Survey Research Associates International June 18-June 19, 2007, and based on telephone interviews with a national adult sample of 1,001.  [USPSRNEW.062007.R14]
+Dataset: USPSRA2007-NW07
+Variable: Q14
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

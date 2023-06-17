@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:47:33 AM UTC
+------------------------------------------------------------
+NBC News/Wall Street Journal Poll [July, 2008]
+
+Do you know what Barack Obama's religion is? (If Yes, ask:) What religion is he?
+
+48%	Protestant (includes United Church of Christ, Baptist, Lutheran, Methodist, Episcopal, Presbyterian, and other Christians)
+2%	Catholic
+8%	Muslim
+2%	Other
+1%	None
+39%	Not sure/Refused
+
+Survey by NBC News, Wall Street Journal
+Methodology: Conducted by Hart and Newhouse Research Companies July 18-July 21, 2008, and based on telephone interviews with a national registered voters with an oversample of hispanics sample of 1,074. The study included an oversample of 71 Hispanic registered voters.  The results reported here are from the national cross section of registered voters only. [USNBCWSJ.08JUL.R27]
+Dataset: USNBCWSJ2008-6084
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

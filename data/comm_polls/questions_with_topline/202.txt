@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 25, 2017 4:08:30 AM UTC
+------------------------------------------------------------
+Princeton Survey Research Associates International/Newsweek Poll [July, 2008]
+
+(As I read you some statements about Barack Obama, please tell me if each one is true or false, to the best of your knowledge.)...Obama was raised as a Muslim....As far as you know is this true or false?
+
+26%	True
+51%	False
+23%	Don't know
+
+Subpopulation: Registered voters
+
+Survey by Newsweek
+Methodology: Conducted by Princeton Survey Research Associates International July 9-July 10, 2008, and based on telephone interviews with a national adult sample of 1,209.  [USPSRNEW.071108.R16C]
+Dataset: USPSRA2008-NW07
+Variable: Q16C
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

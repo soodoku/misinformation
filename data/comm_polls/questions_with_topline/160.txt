@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 11:23:28 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Biennial Media Consumption Survey [April, 2004]
+
+(Next I would like to ask you about some things that have been in the news. Not everyone will have heard about them.)...Since the start of the military action in Iraq last March (2003), about how many U.S. (United States) soldiers have been killed? To the best of your knowledge, has it been under 500, 500 to 1000, 1000 to 2000, or more than 2000? (If Respondent says '500', '1000' or '2,000', prompt:) Would you say it is a little over or a little under?
+
+28%	Under 500
+55%	500 to 1,000 (Correct)
+6%	1,000 to 2,000
+4%	More than 2,000
+7%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International April 19-May 12, 2004, and based on telephone interviews with a national adult sample of 3,000.  [USPSRA.060804.R44]
+Dataset: USPEW2004-MEDIA
+Variable: Q44
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

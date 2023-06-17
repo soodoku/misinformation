@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 12:39:06 AM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [January, 2014]
+
+I'm going to read you a list of specific elements or parts of the (2010 health reform) law. For each, please tell me whether you think it is something the law does, or not. First, to the best of your knowledge, would you say the health reform law does or does not...require nearly all Americans to have health insurance or else pay a fine?
+
+81%	Yes, law does this
+15%	No, law does not do this
+4%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International January 14-January 21, 2014, and based on telephone interviews with a national adult sample of 1,506. 753 respondents were interviewed on a landline telephone, and 753 were interviewed on a cell phone, including 402 who had no landline telephone. [USPSRA.013014K.R10A]
+Dataset: USPSRA2014-HNI126
+Variable: Q10A
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

@@ -1,0 +1,18 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:44:49 AM UTC
+------------------------------------------------------------
+Time/SRBI Poll [August, 2010]
+
+Do you personally believe that Barack Obama is a Muslim or a Christian?
+
+24%	Muslim
+47%	Christian
+5%	Other (Vol.)
+24%	No answer/Don't know
+
+Survey by Time
+Methodology: Conducted by Abt SRBI August 16-August 17, 2010, and based on telephone interviews with a national adult sample of 1,002.  [USSRBI.081910.R19]
+Dataset: USSRBI2010-5122
+Variable: Q19
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

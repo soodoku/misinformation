@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 7:56:46 PM UTC
+------------------------------------------------------------
+Arguments for War Survey [January, 2003]
+
+Please try to answer my next questions about Iraq to the best of your knowledge.  But if you're not sure of an answer--that's okay--just tell me and I'll go to the next question.  Do you think Iraq and Al Qaeda--Osama bin Laden's organization--are allied and working together to plan new acts of terrorism, or not?
+
+65%	Yes
+16%	No
+19%	Don't know/Refused
+
+Survey by Knight Ridder
+Methodology: Conducted by Princeton Survey Research Associates January 3-January 6, 2003, and based on telephone interviews with a national adult sample of 1,204.  [USPSRA.03ARGWAR.R18]
+Dataset: USPSRA2003-22099
+Variable: Q18
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

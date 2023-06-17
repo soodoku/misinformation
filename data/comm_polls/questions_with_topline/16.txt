@@ -1,0 +1,24 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:12:44 AM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press/Pew Forum on Religion & Public Life Religion & Politics Survey [June, 2012]
+
+Now, thinking about Barack Obama's religious beliefs...Do you happen to know what Barack Obama's religion is?  Is he Christian, Jewish, Muslim, Buddhist, Hindu, atheist, agnostic, or something else?
+
+45%	Christian (include volunteers of:  Protestant, Church of Christ, Trinity Church, Baptist, Methodists, etc.)
+*%	Jewish
+16%	Muslim (include Islam/Islamic)
+*%	Buddhist
+*%	Hindu
+*%	Atheist
+*%	Agnostic
+1%	Something else
+36%	Don't know
+1%	Refused
+
+Survey by Pew Research Center for the People & the Press, Pew Forum on Religion & Public Life
+Methodology: Conducted by Princeton Survey Research Associates International June 28-July 9, 2012, and based on telephone interviews with a national adult sample of 2,973. 1771 respondents were interviewed on a landline telephone, and 1202 were interviewed on a cell phone, including 596 who had no landline telephone.  The questions in this report were developed in consultation with Religion and Ethics NewsWeekly.  In partnership with Religion and Ethics NewsWeekly the Pew Forum conducted an additional 511 interviews with religiously unaffiliated adults to produce a total sample of 958 unaffiliated respondents.  The additional 511 interviews were conducted June 28-July 10, 2012 with religiously unaffiliated adults recruited by screening respondents from a fresh sample of landline and cell phone (261 interviews), and by recontacting respondents from recent surveys who had identified themselves as religiously unaffiliated (250 interviews).  These interviews are not used in the results reported for the general public here. [USPSRA.072612.R95]
+Dataset: USPEW2012-RELIG
+Variable: Q95
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

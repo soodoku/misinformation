@@ -1,0 +1,20 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 11:14:20 PM UTC
+------------------------------------------------------------
+Pew News Interest Index Poll [April, 2006]
+
+Since the start of military action in Iraq, about how many U.S. (United States) soldiers have been killed?  To the best of your knowledge, have there been around 500, around 1,500, around 2,500, or around 3,500 military deaths in Iraq?
+
+4%	Around 500
+16%	Around 1,500
+53%	Around 2,500 (correct)
+19%	Around 3,500
+1%	Other (Vol.)
+7%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International April 7-April 16, 2006, and based on telephone interviews with a national adult sample of 1,501.  [USPSRA.042006.R57]
+Dataset: USPEW2006-04NII
+Variable: Q57
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 31, 2017 7:01:18 PM UTC
+------------------------------------------------------------
+Time/CNN/Harris Interactive Poll [April, 2004]
+
+Do you think the Bush administration had developed a strategy before 9/11 (September 11, 2001, the date of the terrorist attacks on the World Trade Center and the Pentagon) to eliminate Osama bin Laden's terrorist group known as al Qaeda, or don't you think the Bush administration had developed such as strategy before 9/11?
+
+27%	Yes, had developed
+60%	No, don't think so
+13%	Not sure
+
+Survey by Time, Cable News Network
+Methodology: Conducted by Harris Interactive on April 8, 2004, and based on telephone interviews with a national adult sample of 1,005.  [USHARRIS.Y040904.R08]
+Dataset: USHARRISINT2004-04
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:25:57 AM UTC
+------------------------------------------------------------
+CNN/Opinion Research Corporation Poll [March, 2011]
+
+Do you think Barack Obama was definitely born in the United States, probably born in the United States, probably born in another country, or definitely born in another country?
+
+46%	Definitely born in the US
+26%	Probably born in the US
+15%	Probably born in another country
+10%	Definitely born in another country
+3%	Don't know/Undecided/Refused
+
+Survey by Cable News Network
+Methodology: Conducted by Opinion Research Corporation March 11-March 13, 2011, and based on telephone interviews with a national adult sample of 1,023.  [USORC.2011004.Q41]
+Dataset: USORCCNN2011-004
+Variable: Q41
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

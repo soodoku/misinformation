@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 13, 2017 7:48:38 PM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [December, 2010]
+
+(I'm going to read you a list of specific reform proposals.  For each, please tell me whether you think it was included in the new (March 2010) health reform law, or not.) To the best of your knowledge, would you say the new law does or does not...allow undocumented immigrants to receive financial help from the government to buy health insurance?
+
+41%	Yes, law will do this
+42%	No, law will not do this
+16%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International December 1-December 6, 2010, and based on telephone interviews with a national adult sample of 1,207. 803 respondents were interviewed on a landline telephone, and 404 were interviewed on a cell phone, including 142 who had no landline telephone. [USPSRA.2010HNI094.Q07J]
+Dataset: USPSRA2010-HNI094
+Variable: Q7J
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

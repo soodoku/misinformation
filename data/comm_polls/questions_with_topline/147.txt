@@ -1,0 +1,21 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 8:19:32 PM UTC
+------------------------------------------------------------
+ABC News/Washington Post Poll [April, 2010]
+
+Where was Barack Obama born, as far as you know?
+
+48%	Honolulu/Hawaii (correct)
+8%	America/United States (other specific place)
+12%	America/United States (general)
+3%	Kenya
+4%	Africa (other)
+3%	Other (specific)
+4%	Other (general)
+19%	Don't know/No opinion
+
+Methodology: Conducted by ABC News/Washington Post April 22-April 25, 2010, and based on telephone interviews with a national adult sample of 1,001. The interviews included landline and cell-phone-only respondents. Interviews were conducted by TNS Intersearch. [USABCWP.20101109.Q031]
+Dataset: USABCWASH2010-1109
+Variable: Q31
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

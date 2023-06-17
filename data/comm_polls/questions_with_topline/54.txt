@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 3:24:40 AM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [December, 2014]
+
+(I'm going to read you a list of specific elements or parts of the (2010 health reform) law. For each, please tell me whether you think it is something the law does, or not.) To the best of your knowledge, would you say the health reform law does or does not...allow undocumented immigrants to receive financial help from the government to buy health insurance?
+
+43%	Yes, law does this
+38%	No, law does not do this
+19%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International December 2-December 9, 2014, and based on telephone interviews with a national adult sample of 1,505. 750 respondents were interviewed on a landline telephone, and 755 were interviewed on a cell phone, including 421 who had no landline telephone. [USPSRA.121814K.R06F]
+Dataset: USPSRA2014-HNI136
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

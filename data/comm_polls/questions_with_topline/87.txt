@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 1:48:45 AM UTC
+------------------------------------------------------------
+Princeton Survey Research Associates International/Newsweek Poll [June, 2008]
+
+Do you think Saddam Hussein's regime in Iraq was directly involved in planning, financing, or carrying out the terrorist attacks of September 11th, 2001 (on the World Trade Center and the Pentagon), or not?
+
+34%	Yes
+56%	No (Correct)
+10%	Don't know
+
+Survey by Newsweek
+Methodology: Conducted by Princeton Survey Research Associates International June 18-June 19, 2008, and based on telephone interviews with a national adult sample of 1,010.  [USPSRNEW.062008.R15]
+Dataset: USPSRA2008-NW06
+Variable: Q15
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

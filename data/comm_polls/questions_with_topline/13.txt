@@ -1,0 +1,22 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:20:57 AM UTC
+------------------------------------------------------------
+Gallup/USA Today Poll [April, 2011]
+
+Do you think...Sarah Palin was definitely born in the United States, probably born in the United States, probably born in another country, definitely born in another country, or don't you know enough to say?
+
+55%	Definitely born in the United States
+17%	Probably born in the United States
+1%	Probably born in another country
+2%	Definitely born in another country
+23%	Don't know enough to say
+2%	Refused
+
+Subpopulation: Asked of Form C half sample
+
+Survey by USA Today
+Methodology: Conducted by Gallup Organization April 20-April 23, 2011, and based on telephone interviews with a national adult sample of 1,013. Interviews were conducted with respondents on landline telephones and cellular phones. [USGALLUP.201107.Q28B]
+Dataset: USAIPOUSA2011-07
+Variable: Q28B
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

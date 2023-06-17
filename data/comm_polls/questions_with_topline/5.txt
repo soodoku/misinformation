@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:27:39 AM UTC
+------------------------------------------------------------
+CBS News/New York Times Poll [April, 2011]
+
+According to the Constitution, American presidents must be 'natural born citizens.'  Some people say Barack Obama was not born in the United States, but was born in another country.  Do you think Barack Obama was born in the United States, or do you think he was born in another country?
+
+57%	Born in US
+25%	Another country
+18%	Don't know/No answer
+
+Methodology: Conducted by CBS News/New York Times April 15-April 20, 2011, and based on telephone interviews with a national adult including an oversample of republicans sample of 1,224. The interviews were conducted by land-line and cell phones.  There were a total of 543 Republicans interviewed.  Results were weighted to be reprsentative of a national adult population. [USCBSNYT.042111A.R72]
+Dataset: USCBSNYT2011-04A
+Variable: Q72
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

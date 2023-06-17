@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 25, 2017 4:54:48 AM UTC
+------------------------------------------------------------
+ABC News/Washington Post Poll [April, 2010]
+
+Is it your best guess that (Barack) Obama was born in the United States, or in another country?
+
+52%	United States
+34%	Another country
+15%	Don't know/No opinion
+
+Subpopulation: Asked of those who do not know where Obama was born (19%)
+
+Methodology: Conducted by ABC News/Washington Post April 22-April 25, 2010, and based on telephone interviews with a national adult sample of 1,001. The interviews included landline and cell-phone-only respondents. Interviews were conducted by TNS Intersearch. [USABCWP.20101109.Q031A]
+Dataset: USABCWASH2010-1109
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

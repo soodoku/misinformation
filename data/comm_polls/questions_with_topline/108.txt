@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 8:39:41 PM UTC
+------------------------------------------------------------
+ABC News/Planet Green/Stanford Poll [July, 2008]
+
+Do you think most scientists agree with one another about whether or not global warming is happening, or do you think there is a lot of disagreement among scientists on this issue?
+
+39%	Most agree
+57%	A lot of disagreement
+4%	No opinion
+
+Survey by Planet Green, The Woods Institute for the Environment at Stanford University
+Methodology: Conducted by ABC News July 23-July 28, 2008, and based on telephone interviews with a national adult sample of 1,000. Interviews were conducted by TNS Intersearch. [USABC.080908.R16]
+Dataset: USABC2008-1067
+Variable: Q16
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

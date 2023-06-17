@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 8:46:07 PM UTC
+------------------------------------------------------------
+Princeton Survey Research Associates International/Newsweek Poll [August, 2007]
+
+Now, thinking specifically about the issue of global warming...do you think most climate scientists agree that the earth has been warming in recent years, or do you think there is a lot of disagreement among climate scientists about whether the earth has been warming?
+
+52%	Most scientists agree
+39%	A lot of disagreement
+9%	Don't know/Refused
+
+Survey by Newsweek
+Methodology: Conducted by Princeton Survey Research Associates International August 1-August 2, 2007, and based on telephone interviews with a national adult sample of 1,002.  [USPSRNEW.07NW11.Q14]
+Dataset: USPSRA2007-NW11
+Variable: Q14
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

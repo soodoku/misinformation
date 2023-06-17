@@ -1,0 +1,18 @@
+iPOLL Search Results -- Downloaded: July 12, 2017 8:39:55 PM UTC
+------------------------------------------------------------
+ABC News/Washington Post/Stanford University Poll [April, 2007]
+
+As far as you know, would you say that average temperatures around the world have been higher in the last three years than before that, lower, or about the same?
+
+56%	Higher
+9%	Lower
+28%	About the same
+7%	No opinion
+
+Survey by Stanford University
+Methodology: Conducted by ABC News/Washington Post April 5-April 10, 2007, and based on telephone interviews with a national adult sample of 1,002. Interviews were conducted by TNS Intersearch. [USABCWP.042007.R06]
+Dataset: USABCWASH2007-1035
+Variable: Q15
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

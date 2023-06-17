@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 9:45:07 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Political Knowledge Update Survey [January, 2010]
+
+Next I'd like to ask about some things that have been in the news.  Please answer as best you can.  If you don't know the answer just tell me and we'll move to the next question....Do you happen to know if the Dow Jones Industrial Average is currently closer to...3,000, 5,000, 10,000 or 20,000?
+
+7%	3,000
+6%	5,000
+36%	10,000 (correct)
+3%	20,000
+48%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International January 14-January 17, 2010, and based on telephone interviews with a national adult sample of 1,003. 672 respondents were interviewed on a landline telephone and 331 were interviewed on a cell phone, including 123 who had no landline telephone. [USPSRA.012810.R01]
+Dataset: USPEW2010-01
+Variable: PEW1
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

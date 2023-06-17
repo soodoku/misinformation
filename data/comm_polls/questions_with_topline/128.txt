@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 9:41:38 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Political Knowledge Update Survey [March, 2009]
+
+(Now I would like to ask you about some things that have been in the news recently.  Not everyone will have heard of them.)...Do you happen to know if the national unemployment rate is currently closer to...4%, 8%, 12% or 16%?
+
+3%	4%
+53%	8% (Correct)
+24%	12%
+18%	16%
+2%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Opinion Research Corporation March 26-March 29, 2009, and based on telephone interviews with a national adult sample of 1,003.  [USORC.040209P.R09]
+Dataset: USPEW2009-03UPDATE
+Variable: Q9
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

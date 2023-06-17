@@ -1,0 +1,18 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 1:33:06 AM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [April, 2010]
+
+As far as you know, has the independent Congressional Budget Office which analyzes the cost of legislation said the health reform law (of March 2010) will increase the federal budget deficit over the next ten years, decrease the deficit over the next ten years, or is it not expected to have much impact on the deficit?
+
+45%	Increase the deficit over the next 10 years
+25%	Decrease the deficit over the next 10 years
+16%	Is not expected to have much impact on the deficit
+13%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International April 9-April 14, 2010, and based on telephone interviews with a national adult sample of 1,208. 801 respondents were interviewed by landline telephones, and 407 were interviewed by cell phones, including 171 who had no landline telephone. [USPSRA.10HTPAPR.R10]
+Dataset: USPSRA2010-HNI086
+Variable: Q10
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

@@ -1,0 +1,20 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:54:03 AM UTC
+------------------------------------------------------------
+Princeton Survey Research Associates International/Newsweek Poll [April, 2008]
+
+As far as you know, what is Barack Obama's religion?  Is he a Christian, a Muslim, or something else?
+
+52%	Christian
+13%	Muslim
+9%	Something else
+26%	Don't know
+
+Subpopulation: Registered voters
+
+Survey by Newsweek
+Methodology: Conducted by Princeton Survey Research Associates International April 24-April 25, 2008, and based on telephone interviews with a national adult sample of 1,371.  [USPSRNEW.042608.R22]
+Dataset: USPSRA2008-NW04
+Variable: Q22
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

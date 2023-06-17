@@ -1,0 +1,15 @@
+iPOLL Search Results -- Downloaded: July 13, 2017 8:06:30 PM UTC
+------------------------------------------------------------
+ABC News/Washington Post Poll [November, 2015]
+
+Do you think most scientists agree with one another about whether or not global warming is happening, or do you think there is a lot of disagreement among scientists on this issue?
+
+43%	Most agree
+51%	A lot of disagreement
+6%	No opinion
+
+Methodology: Conducted by ABC News/Washington Post November 16-November 19, 2015, and based on telephone interviews with a national adult sample of 1,004. The survey was produced for ABC News by Langer Research Associates. The survey was produced for The Washington Post by Capital Insight. Interviews were conducted by Abt-SRBI.  The interviews included landline and cell-phone-only respondents. [USABCWP.113015.R27]
+Dataset: USABCWASH2015-1173
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

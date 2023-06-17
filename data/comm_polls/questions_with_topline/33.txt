@@ -1,0 +1,27 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:48:09 AM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Voter Attitudes Survey [June, 2008]
+
+Now, thinking about Barack Obama's religious beliefs...Do you happen to know what Barack Obama's religion is?  Is he Christian, Jewish, Muslim, Buddhist, Hindu, atheist, agnostic, or something else? (If Don't know, probe:) Is that because you've heard different things about his religion, or because you just don't know enough about him?
+
+57%	Christian
+1%	Jewish
+12%	Muslim
+*%	Buddhist
+*%	Hindu
+*%	Atheist
+*%	Agnostic
+2%	Something else
+10%	Don't know-Heard different things (Vol.)
+15%	Don't know-Haven't heard enough (Vol.)
+3%	Refused
+
+Subpopulation: Asked of those who are absolutely certain they are registered to vote/plan to register (84% of sample)
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International June 18-June 29, 2008, and based on telephone interviews with a national adult including an oversample of 18-29 year olds sample of 2,004. Results were weighted to be representative of a national adult population. [USPSRA.071008.R50]
+Dataset: USPEW2008-06VOTE
+Variable: Q50
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

@@ -1,0 +1,18 @@
+iPOLL Search Results -- Downloaded: July 9, 2017 7:46:15 PM UTC
+------------------------------------------------------------
+NBC News/Wall Street Journal Poll [June, 2004]
+
+(Based on what you have learned, please tell me whether you believe each of the following is true or is not true.)... Iraq was connected to the September eleventh (2001) terrorist attacks (on the World Trade Center and the Pentagon)
+
+40%	True
+49%	Not true
+11%	Not sure
+
+Subpopulation: Asked of Form A half sample
+
+Survey by NBC News, Wall Street Journal
+Methodology: Conducted by Hart and Teeter Research Companies June 25-June 28, 2004, and based on telephone interviews with a national registered voters sample of 1,025.  [USNBCWSJ.04JUNE.R26D]
+Dataset: USNBCWSJ2004-6044
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

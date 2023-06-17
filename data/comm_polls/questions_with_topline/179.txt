@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 13, 2017 7:56:22 PM UTC
+------------------------------------------------------------
+Kaiser Health Tracking Poll [September, 2012]
+
+(I'm going to read you a list of specific ways the new (2010) health reform law may or may not impact Medicare.  For each, please tell me if you think it is something the law does or does not do.) To the best of your knowledge, would you say the new law does or does not...establish a government panel to make decisions about end-of-life care for people on Medicare?
+
+39%	Yes, law does this
+39%	No, law does not do this
+22%	Don't know/Refused
+
+Survey by Henry J. Kaiser Family Foundation
+Methodology: Conducted by Princeton Survey Research Associates International September 13-September 19, 2012, and based on telephone interviews with a national adult sample of 1,534. 1033 respondents were interviewed on a landline telephone, and 501 were interviewed on a cell phone, including 284 who had no landline telephone. [USPSRA.12HTPSEP.R16G]
+Dataset: USPSRA2012-HNI114
+Variable: Q16G
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

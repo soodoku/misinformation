@@ -1,0 +1,19 @@
+iPOLL Search Results -- Downloaded: July 13, 2017 8:14:50 PM UTC
+------------------------------------------------------------
+Pew Research Center for the People & the Press Political Survey [February, 2012]
+
+From what you've read and heard, how much of the money the government provided to banks and financial institutions has been paid back...all of the money, most of it, only some of it, or none of it?
+
+2%	All of it
+13%	Most of it
+56%	Only some of it
+16%	None of it
+13%	Don't know/Refused
+
+Survey by Pew Research Center for the People & the Press
+Methodology: Conducted by Princeton Survey Research Associates International February 8-February 12, 2012, and based on telephone interviews with a national adult sample of 1,501. 900 respondents were interviewed on a landline telephone, and 601 were interviewed on a cell phone, including 284 who had no landline telephone. [USPSRA.022312.R45]
+Dataset: USPEW2012-02POL
+Variable: Q45
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

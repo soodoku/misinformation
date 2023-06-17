@@ -1,0 +1,22 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:55:36 AM UTC
+------------------------------------------------------------
+CBS News/New York Times Poll [May, 2008]
+
+Do you know what Barack Obama's religion is? (If Yes, ask:) What religion is he?
+
+22%	Protestant
+1%	Catholic
+7%	Muslim
+4%	Baptist
+2%	United Church of Christ
+4%	Other
+60%	Don't know/No answer
+
+Subpopulation: Registered voters
+
+Methodology: Conducted by CBS News/New York Times May 1-May 3, 2008, and based on telephone interviews with a national adult sample of 671.  [USCBSNYT.050408A.R27]
+Dataset: USCBSNYT2008-05A
+Variable: Q27
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

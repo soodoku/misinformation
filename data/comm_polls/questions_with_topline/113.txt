@@ -1,0 +1,17 @@
+iPOLL Search Results -- Downloaded: July 10, 2017 8:48:14 PM UTC
+------------------------------------------------------------
+Princeton Survey Research Associates International/Newsweek Poll [August, 2007]
+
+Do you think most climate scientists agree that human activities, such as burning coal and oil, are a major cause of global warming, or do you think there is a lot of disagreement among climate scientists about whether human activities are a major cause?
+
+47%	Most scientists agree
+42%	A lot of disagreement
+12%	Don't know/Refused
+
+Survey by Newsweek
+Methodology: Conducted by Princeton Survey Research Associates International August 1-August 2, 2007, and based on telephone interviews with a national adult sample of 1,002.  [USPSRNEW.07NW11.Q15]
+Dataset: USPSRA2007-NW11
+Variable: Q15
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------

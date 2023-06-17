@@ -1,0 +1,16 @@
+iPOLL Search Results -- Downloaded: July 7, 2017 2:26:55 AM UTC
+------------------------------------------------------------
+Fox News Poll [April, 2011]
+
+Do you think Barack Obama was born in the United States, or not?
+
+67%	Yes
+24%	No
+10%	Don't know
+
+Survey by Fox News
+Methodology: Conducted by Anderson Robbins Research/Shaw & Co. Research April 3-April 5, 2011, and based on telephone interviews with a national registered voters sample of 914. 712 respondents were interviewed on a landline telephone, and 202 were interviewed on a cell phone. Interviews were conducted by Braun Research. [USASFOX.040711A.R38]
+Dataset: USFOX2011-0405
+Data provided by The Roper Center for Public Opinion Research.
+
+------------------------------------------------------------
