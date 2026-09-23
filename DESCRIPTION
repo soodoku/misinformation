@@ -1,0 +1,34 @@
+Package: misinformationaboutmisinformation
+Type: Project
+Title: Misinformation about Misinformation? Of Headlines and Survey Design
+Version: 0.0.1
+Authors@R: c(
+    person("Robert C.", "Luskin", role = "aut"),
+    person("Gaurav", "Sood", role = c("aut", "cre"), email = "gsood07@gmail.com"),
+    person("Yul Min", "Park", role = "aut"),
+    person("Joshua", "Blank", role = "aut"))
+Description: Data, analyses, and manuscript on how the design of media-poll
+    misinformation items inflates estimates of misinformation: a coded corpus
+    of media-poll items and a randomized survey experiment.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    assertr,
+    digest,
+    dplyr,
+    forcats,
+    ggplot2,
+    purrr,
+    readr,
+    rlang,
+    sandwich,
+    scales,
+    stringr,
+    tibble,
+    tidyr
+Suggests:
+    lintr,
+    renv,
+    styler,
+    testthat
+Config/testthat/edition: 3

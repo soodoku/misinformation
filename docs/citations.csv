@@ -1,0 +1,23 @@
+key,validation,doi_or_url,note
+berinsky2012,crossref_doi,10.1093/pan/mpr057,Not in ref list (04-08-18 only)
+berinsky2018,crossref_doi,10.1086/694258,Checked against Crossref
+bullock2015,crossref_doi,10.1561/100.00014074,Not in ref list (04-08-18 endnote only)
+flaxman2016,crossref_doi,10.1093/poq/nfw006,Draft cited a working paper; published version
+gentzkow2011,crossref_doi,10.1093/qje/qjr044,Draft cited a working paper; published version
+graham2023,crossref_doi,10.1017/s0003055422000387,"Online July 2022; print APSR 117(1), Feb 2023"
+guess2020,crossref_doi,10.1017/S0007123418000327,Draft cited a working paper; published version
+huff2015,crossref_doi,10.1177/2053168015604648,Not in ref list (04-08-18 only)
+khanna2018,crossref_doi,10.1007/s11109-017-9395-7,Draft cited a working paper; published version
+kull2003,crossref_doi,10.1002/j.1538-165x.2003.tb00406.x,"Ref list: Kull, Ramsay & Lewis 2003 PSQ 118(4) - matches"
+luskin2011,crossref_doi (reused verbatim),10.1017/s0022381611000132,"Ref list dates it 2012 ('Don't Know Means Don't Know', JOP); published 2011, 73(2)"
+luskin2026,repository,https://github.com/soodoku/waters-of-casablanca,Companion paper; draft cited the 2018 MPSA version
+mullinix2015,crossref_doi,10.1017/xps.2015.19,"Draft year 2016 = online date (Jan 2016); issue is JEPS 2(2), 2015. Not in ref list"
+nyhan2010b,crossref_doi,10.1007/s11109-010-9112-2,Cited in 2012-2013 drafts
+nyhan2020,crossref_doi,10.1007/s11109-019-09528-x,Draft cited a working paper; published version
+pasek2015,crossref_doi,10.1111/jcom.12165,Crossref BibTeX appends a running-head subtitle to the title; dropped
+pew2009,publisher_page,https://www.pewresearch.org/politics/2009/08/20/health-care-reform-closely-followed-much-discussed/,"Ref list title 'Death Panels Live On With Fox Viewers. Fewer See Press As Fair To Obama' not on report page; actual title 'Health Care Reform Closely Followed, Much Discussed' (Aug 20, 2009)"
+prior2013,crossref_doi,10.1146/annurev-polisci-100711-135242,Draft cited a working paper; published version
+prior2015,crossref_doi,10.1561/100.00014127,Not in ref list (04-08-18 endnote only)
+schaffner2018,crossref_doi,10.1093/poq/nfx042,Added for this manuscript
+shen2025,crossref_doi,10.1093/poq/nfaf044,Added for this manuscript
+wood2019,crossref_doi,10.1007/s11109-018-9443-y,Draft cited a working paper; published version

@@ -1,0 +1,10 @@
+question,column,text,short,truth,truth_source
+birth,24k_block1_3,Barack Obama was born in the US,Obama born in the U.S.,TRUE,Hawaii State Department of Health birth certificate (2011)
+religion,24k_block1_4,Barack Obama is a Muslim,Obama is a Muslim,FALSE,Obama is a Christian (Pew Research Center 2010)
+illegal,24k_block1_5,The Affordable Care Act gives illegal immigrants financial help to buy health insurance,ACA helps illegal immigrants buy insurance,FALSE,ACA sec. 1312(f)(3)
+death,24k_block1_6,The Affordable Care Act does not create government panels to make decisions about end-of-life care,ACA creates no death panels,TRUE,No such panel in the law
+increase,24k_block2_1,"Temperatures around the world are increasing because of human activity, like burning coal and gasoline",Warming is human-caused,TRUE,IPCC AR5 WG1 Summary for Policymakers (2013)
+science,24k_block2_2,Most climate scientists believe that global warming is not occurring,Most scientists doubt warming,FALSE,Cook et al. (2016)
+fraud,24k_block2_3,"In the 2016 presidential election, President Trump won the majority of the legally cast votes",Trump won most legal votes,FALSE,"FEC official 2016 results: Trump won 46.1% of votes cast, so he would hold a majority of legal votes only if more than 10 million votes for other candidates were illegal"
+mmr,24k_block2_4,"The vaccine for measles, mumps, and rubella (MMR) causes autism in children",MMR vaccine causes autism,FALSE,"Taylor, Swerdfeger and Eslick (2014)"
+deficit,24k_block2_5,"Since 2012, the annual federal budget deficit has increased",Deficit has risen since 2012,FALSE,"CBO: deficit $1,087 billion in FY2012, $585 billion in FY2016"

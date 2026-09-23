@@ -1,0 +1,32 @@
+topic,pattern,key
+Obama Citizenship,not sure which state,correct
+Obama Citizenship,not sure which country,incorrect
+*,^(don.?t know|not sure|unsure|no opinion|refused|no answer|never heard|dk)|don.?t know|not sure|no opinion|refused|no answer|it is not clear|undecided|heard different|haven.?t heard|what their religious beliefs are|what his religion is,dk
+Obama Citizenship,another country|kenya|indonesia|outside the us|africa|not born in|was not born|^no$,incorrect
+Obama Citizenship,united states|unites states|hawaii|honolulu|kansas|in the us|born in us|born in the us|^yes$,correct
+Obama Religion,^false$|^not too well|^not well at all,correct
+Obama Religion,^true$|^very well|^well$,incorrect
+Obama Religion,christian|protestant|baptist|united church of christ,correct
+Obama Religion,muslim|islam|catholic|jewish|mormon|latter day|hindu|buddhist|atheist|agnostic|no religion|not religious|something else|other|mixed,incorrect
+GW Scientist Agreement,most (scientists )?agree,correct
+GW Scientist Agreement,disagreement,incorrect
+GW Happening,^higher,correct
+GW Happening,^lower|about the same,incorrect
+Iraq 9/11,saudi arabia|^no|^not true,correct
+Iraq 9/11,^yes|^true|^iraq$|^iran$|^syria$,incorrect
+Iraq WMD,^no|^not true,correct
+Iraq WMD,^yes|^true,incorrect
+ACA,^no,correct
+ACA,^yes,incorrect
+ACA Death Panel,^no|^not true,correct
+ACA Death Panel,^yes|^true,incorrect
+ACA Illegal Imm.,^no,correct
+ACA Illegal Imm.,^yes,incorrect
+Russia Meddling,not to help trump|did not|^no$|^clinton$|not influenced|no difference,incorrect
+Russia Meddling,to help trump|^trump$|^yes$|^influenced,correct
+Vaccines,^no. not a cause|^safe,correct
+Vaccines,^yes. a cause|^not safe,incorrect
+Vaccines Medical Scientists,^almost all,correct
+Vaccines Medical Scientists,more than half|about half|fewer than half|almost none,incorrect
+Voter Fraud 2016,^clinton,correct
+Voter Fraud 2016,^trump,incorrect

@@ -1,0 +1,27 @@
+id,row,correct,incorrect,dk,confident_correct,confident_incorrect,basis
+187,0,61.0,36.0,3.0,,,Corpus columns
+191,11,43.0,51.0,6.0,,,Corpus columns
+100,26,78.0,18.0,4.0,,,Corpus columns
+194,36,54.0,44.0,2.0,,,Corpus columns
+195,43,49.0,47.0,4.0,,,Corpus columns
+254,44,63.0,37.0,0.0,,,Corpus columns
+255,45,58.0,22.0,20.0,,,Corpus columns
+244,46,50.0,30.0,20.0,29.0,9.0,"Corpus columns; graded item, checked against footnote"
+249,49,55.0,45.0,0.0,26.0,17.0,"Corpus columns; graded item, checked against footnote"
+251,50,62.0,38.0,0.0,27.0,13.0,Reversed: the corpus counted 'true' as correct; no evidence supports vote-tally tampering
+256,53,54.0,46.0,0.0,20.0,16.0,"Corpus columns; graded item, checked against footnote"
+258,54,65.0,35.0,0.0,27.0,11.0,Reversed: the corpus counted 'true' as correct; no evidence supports vote-tally tampering
+261,57,57.0,43.0,0.0,28.0,17.0,"Corpus columns; graded item, checked against footnote"
+263,58,60.0,40.0,0.0,27.0,15.0,Reversed: the corpus counted 'true' as correct; no evidence supports vote-tally tampering
+250,61,56.0,43.0,1.0,27.0,12.0,"Corpus columns; graded item, checked against footnote"
+257,62,56.0,43.0,1.0,27.0,10.0,"Corpus columns; graded item, checked against footnote"
+262,63,54.0,46.0,0.0,28.0,17.0,"Corpus columns; graded item, checked against footnote"
+189,64,65.0,31.0,4.0,,,Corpus columns
+143,76,74.0,24.0,2.0,,,Corpus columns
+197,87,84.0,14.0,2.0,,,Corpus columns
+103,91,61.0,18.0,21.0,,,Corpus columns
+133,95,44.0,25.0,31.0,,,Corpus columns
+219,153,48.0,31.0,21.0,,,Corpus columns
+220,161,35.0,42.0,23.0,,,Corpus columns
+211,172,68.9,14.8,16.3,,,Corpus columns
+198,179,19.0,68.0,13.0,,,Corpus columns

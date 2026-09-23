@@ -1,0 +1,34 @@
+keep,drop_category,drop_reason,n
+FALSE,"Ambiguous wording, or a key that cannot be verified",'Iraq had WMD' is true of the 1980s; the tense makes it ambiguous,1
+FALSE,"Ambiguous wording, or a key that cannot be verified",Auto loans were repaid while equity stakes remained,1
+FALSE,"Ambiguous wording, or a key that cannot be verified",Bank repayments stood near half; 'most' and 'only some' are both defensible,1
+FALSE,"Ambiguous wording, or a key that cannot be verified",Conflates the deficit with the debt,2
+FALSE,"Ambiguous wording, or a key that cannot be verified",Conflates the deficit with the debt; debt rose under Clinton,2
+FALSE,"Ambiguous wording, or a key that cannot be verified",Emergency Medicaid covers undocumented immigrants,1
+FALSE,"Ambiguous wording, or a key that cannot be verified",Garbled option list; unclear whether volunteered 'both' was scored as wrong,1
+FALSE,"Ambiguous wording, or a key that cannot be verified",Graded likelihood item whose split of 'not very likely' cannot be verified,1
+FALSE,"Ambiguous wording, or a key that cannot be verified",Principal was mostly but not wholly repaid while total returns exceeded outlays,1
+FALSE,"Answer not settled when asked, or settled differently later",Asked days after the 9/11 Commission report; ties were still contested,1
+FALSE,"Answer not settled when asked, or settled differently later","Asked in January 2003, before the absence of stockpiles was known",1
+FALSE,"Answer not settled when asked, or settled differently later",Asked in January 2003; the relationship was contested,1
+FALSE,"Answer not settled when asked, or settled differently later",Attribution of one year's record to human causes was debated,1
+FALSE,"Answer not settled when asked, or settled differently later",Attribution of one year's records to human causes was debated,1
+FALSE,"Answer not settled when asked, or settled differently later",Evidence on crime by undocumented immigrants was thin when asked,6
+FALSE,"Answer not settled when asked, or settled differently later",How much Russian interference helped a candidate is unknowable,3
+FALSE,"Answer not settled when asked, or settled differently later",Obama's childhood religious upbringing in Indonesia is disputed,1
+FALSE,"Answer not settled when asked, or settled differently later",Old pre-1991 chemical munitions were later found,1
+FALSE,"Answer not settled when asked, or settled differently later",Whether Russia changed the outcome is unknowable,2
+FALSE,"Answer not settled when asked, or settled differently later",Whether Trump acted illegally was not settled,3
+FALSE,"Answer not settled when asked, or settled differently later",Whether Trump acted improperly was not settled,3
+FALSE,"Answer not settled when asked, or settled differently later",Whether administration members acted illegally was not settled,1
+FALSE,"Answer not settled when asked, or settled differently later",Whether administration members acted improperly was not settled,1
+FALSE,"Answer not settled when asked, or settled differently later",Whether the administration 'spied' on the campaign was contested,1
+FALSE,Not a factual proposition with one right answer,"Asks whether scientists 'speak with authority', an opinion",1
+FALSE,Not a factual proposition with one right answer,Graded safety ratings have no single correct category,3
+FALSE,Not a factual proposition with one right answer,"Rates benefits, not a factual proposition",1
+FALSE,Not a factual proposition with one right answer,"Rates risks, not a factual proposition",1
+FALSE,Not a factual proposition with one right answer,Scientists' agreement on the size of the threat is not a settled fact,1
+FALSE,Not a factual proposition with one right answer,When warming's effects begin has no single answer,1
+FALSE,"Open-ended, or asked only of those who did not know",Follow-up asked only of those who did not know,2
+FALSE,"Open-ended, or asked only of those who did not know",Open-ended,11
+TRUE,,,121

@@ -1,0 +1,181 @@
+row,id,topic,polling_firm,mode,date,keep,drop_reason,dk_shown,claim_cue,drop_category
+0,187,GW Scientist Agreement,60 Minutes/Vanity Fair,online,03/30/16-04/03/16,True,,False,,
+1,150,GW Happening,ABC News,telephone,03/09-14/06,True,,False,,
+2,108,GW Scientist Agreement,ABC News,telephone,07/23-28/08,True,,False,,
+3,109,GW Scientist Agreement,ABC News,telephone,07/23-28/08,True,,False,,
+4,110,GW Scientist Agreement,ABC News,telephone,07/23-28/08,False,Scientists' agreement on the size of the threat is not a settled fact,False,,Not a factual proposition with one right answer
+5,114,GW Scientist Agreement,ABC News,telephone,03/09-14/06,True,,False,,
+6,149,GW Happening,ABC News/Washington Post,telephone,04/05-10/07,True,,False,,
+7,147,Obama Citizenship,ABC News/Washington Post,telephone,04/22-25/10,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+8,105,GW Scientist Agreement,ABC News/Washington Post,telephone,12/10-13/09,True,,False,,
+9,111,GW Scientist Agreement,ABC News/Washington Post,telephone,04/05-10/07,True,,False,,
+10,180,GW Scientist Agreement,ABC News/Washington Post,telephone,11/16-19/15,True,,False,,
+11,191,GW Scientist Agreement,ABC News/Washington Post,online,11/16-19/15,True,,False,,
+12,241,Obama Illegal Wiretapping,ABC News/Washington Post,telephone,04/17-20/17,False,Whether the administration 'spied' on the campaign was contested,False,,"Answer not settled when asked, or settled differently later"
+13,210,Obama Citizenship,ABC News/Washington Post,telephone,04/22-25/10,False,Follow-up asked only of those who did not know,False,,"Open-ended, or asked only of those who did not know"
+14,204,Vaccines Medical Scientists,"Abt SRBI, Inc.",online,05/10/16-06/10/16,True,,False,,
+15,21,Obama Religion,"Abt SRBI, Inc.",telephone,04/14/11-07/22/11,True,,False,,
+16,23,Obama Religion,"Abt SRBI, Inc.",telephone,08/16-17/10,True,,False,,
+17,144,Vaccines,"Abt SRBI, Inc.",mixed,05/10/16-06/10/16,False,"Rates benefits, not a factual proposition",False,,Not a factual proposition with one right answer
+18,145,Vaccines,"Abt SRBI, Inc.",mixed,05/10/16-06/10/16,False,"Rates risks, not a factual proposition",False,,Not a factual proposition with one right answer
+19,6,Obama Citizenship,Anderson Robbins Research/Shaw & Co. Research,telephone,04/03-05/11,True,,False,,
+20,228,Russia Meddling,Anderson Robbins Research/Shaw & Co. Research,telephone,07/16-18/17,True,,False,,
+21,229,Russia Meddling,Anderson Robbins Research/Shaw & Co. Research,telephone,07/16-18/17,True,,False,,
+22,230,Russia Meddling,Anderson Robbins Research/Shaw & Co. Research,telephone,06/25-27/17,False,How much Russian interference helped a candidate is unknowable,False,,"Answer not settled when asked, or settled differently later"
+23,233,Russia Meddling,Anderson Robbins Research/Shaw & Co. Research,telephone,05/21-23/17,False,How much Russian interference helped a candidate is unknowable,False,,"Answer not settled when asked, or settled differently later"
+24,238,Russia Meddling,Anderson Robbins Research/Shaw & Co. Research,telephone,12/11-13/16,False,How much Russian interference helped a candidate is unknowable,False,,"Answer not settled when asked, or settled differently later"
+25,137,Vaccines,Anderson Robbins Research/Shaw & Co. Research,telephone,02/08-10/15,False,Graded safety ratings have no single correct category,False,,Not a factual proposition with one right answer
+26,100,GW Happening,AP/GfK Roper Public Affairs & Corporate Communications,telephone,11/29/12-12/03/12,True,,False,,
+27,231,Russia Meddling,CBS News,telephone,06/15-18/17,True,,False,,
+28,234,Russia Meddling,CBS News,telephone,03/25-28/17,True,,False,,
+29,237,Russia Meddling,CBS News,telephone,01/13-17/17,True,,False,,
+30,40,Obama Religion,CBS News,telephone,08/08-12/07,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+31,134,Crime Illegal Imm.,CBS News,online,02/17-21/17,False,Evidence on crime by undocumented immigrants was thin when asked,False,,"Answer not settled when asked, or settled differently later"
+32,172,Crime Illegal Imm.,CBS News,telephone,07/29/15-08/02/15,False,Evidence on crime by undocumented immigrants was thin when asked,False,,"Answer not settled when asked, or settled differently later"
+33,8,Obama Citizenship,CBS News,telephone,06/01-03/10,True,,False,,
+34,141,Vaccines,CBS News,online,02/13-17/15,False,Graded likelihood item whose split of 'not very likely' cannot be verified,False,,"Ambiguous wording, or a key that cannot be verified"
+35,136,Vaccines,CBS News,online,02/13-17/15,False,Graded safety ratings have no single correct category,False,,Not a factual proposition with one right answer
+36,194,GW Happening Cause,CBS News/New York Times,online,09/10-14/14,True,,False,,
+37,28,Obama Religion,CBS News/New York Times,telephone,10/10-13/08,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+38,35,Obama Religion,CBS News/New York Times,telephone,05/01-03/08,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+39,169,Crime Illegal Imm.,CBS News/New York Times,telephone,09/09-13/16,False,Evidence on crime by undocumented immigrants was thin when asked,False,,"Answer not settled when asked, or settled differently later"
+40,173,Crime Illegal Imm.,CBS News/New York Times,telephone,05/18-23/07,False,Evidence on crime by undocumented immigrants was thin when asked,False,,"Answer not settled when asked, or settled differently later"
+41,5,Obama Citizenship,CBS News/New York Times,telephone,04/15-20/11,True,,False,Some people say he was not born in the United States,
+42,11,Obama Citizenship,CBS News/New York Times,telephone,04/05-12/10,True,,False,Some people say he was not born in the United States,
+43,195,GW Happening Cause,CNN/ORC,online,01/14-15/13,True,,False,,
+44,254,GW Happening Cause,Economist/YouGov,online,06/04-06/17,True,,False,,
+45,255,GW Scientist Agreement,Economist/YouGov,online,06/04-06/17,True,,True,,
+46,244,Obama Illegal Wiretapping,Economist/YouGov,online,03/06-07/17,True,,True,,
+47,247,Russia Meddling,Economist/YouGov,online,07/15-18/17,False,Whether Trump acted improperly was not settled,True,,"Answer not settled when asked, or settled differently later"
+48,248,Russia Meddling,Economist/YouGov,online,07/15-18/17,False,Whether Trump acted illegally was not settled,True,,"Answer not settled when asked, or settled differently later"
+49,249,Russia Meddling,Economist/YouGov,online,06/04-06/17,True,,False,,
+50,251,Russia Meddling,Economist/YouGov,online,06/04-06/17,True,,False,,
+51,252,Russia Meddling,Economist/YouGov,online,06/04-06/17,False,Whether administration members acted improperly was not settled,True,,"Answer not settled when asked, or settled differently later"
+52,253,Russia Meddling,Economist/YouGov,online,06/04-06/17,False,Whether administration members acted illegally was not settled,True,,"Answer not settled when asked, or settled differently later"
+53,256,Russia Meddling,Economist/YouGov,online,05/13-16/17,True,,False,,
+54,258,Russia Meddling,Economist/YouGov,online,05/13-16/17,True,,False,,
+55,259,Russia Meddling,Economist/YouGov,online,07/31/17-08/01/17,False,Whether Trump acted improperly was not settled,True,,"Answer not settled when asked, or settled differently later"
+56,260,Russia Meddling,Economist/YouGov,online,07/31/17-08/01/17,False,Whether Trump acted illegally was not settled,True,,"Answer not settled when asked, or settled differently later"
+57,261,Russia Meddling,Economist/YouGov,online,07/09-11/17,True,,False,,
+58,263,Russia Meddling,Economist/YouGov,online,07/09-11/17,True,,False,,
+59,264,Russia Meddling,Economist/YouGov,online,07/09-11/17,False,Whether Trump acted improperly was not settled,True,,"Answer not settled when asked, or settled differently later"
+60,265,Russia Meddling,Economist/YouGov,online,07/09-11/17,False,Whether Trump acted illegally was not settled,True,,"Answer not settled when asked, or settled differently later"
+61,250,Voter Fraud 2016,Economist/YouGov,online,06/04-06/17,True,,False,,
+62,257,Voter Fraud 2016,Economist/YouGov,online,05/13-16/17,True,,False,,
+63,262,Voter Fraud 2016,Economist/YouGov,online,07/09-11/17,True,,False,,
+64,189,GW Happening Cause,Gallup Organization,online,03/02-06/16,True,,False,,
+65,146,Vaccines,Gallup Organization,telephone,02/28/15-03/01/15,True,,True,,
+66,3,Obama Citizenship,Gallup Organization,telephone,05/05-08/11,True,,True,,
+67,4,Obama Citizenship,Gallup Organization,telephone,04/20-23/11,True,,True,,
+68,190,GW Happening Cause,Gallup Organization,online,03/02-06/16,False,Attribution of one year's record to human causes was debated,False,,"Answer not settled when asked, or settled differently later"
+69,95,Iraq 9/11,Gallup Organization,telephone,06/21-23/04,True,,False,,
+70,97,Iraq 9/11,Gallup Organization,telephone,12/15-16/03,True,,False,,
+71,96,Iraq Al Qaeda,Gallup Organization,telephone,06/21-23/04,False,Asked days after the 9/11 Commission report; ties were still contested,False,,"Answer not settled when asked, or settled differently later"
+72,239,Voter Fraud 2016,Gallup Organization,telephone,11/28-29/16,True,,True,,
+73,188,GW Happening,Gallup Organization,online,03/02-06/16,False,When warming's effects begin has no single answer,False,,Not a factual proposition with one right answer
+74,206,Obama Citizenship,GfK Knowledge Networks,online,08/30/12-09/11/12,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+75,15,Obama Religion,GfK Knowledge Networks,online,08/30/12-09/11/12,True,,True,,
+76,143,GW Happening,GfK Public Affairs & Corporate Communications,online,10/03-07/13,True,,False,,
+77,203,Obama Religion,Greenberg Quinlan Rosner Research,telephone,06/22-25/08,True,,False,,
+78,17,Obama Religion,Hart and McInturff Research Companies,telephone,06/20-24/12,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+79,39,Obama Religion,Hart and McInturff Research Companies,telephone,03/07-10/08,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+80,31,Obama Religion,Hart and Newhouse Research Companies,telephone,07/18-21/08,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+81,222,Crime Illegal Imm.,ICR-International Communications Research,telephone,05/27/04-08/02/04,False,Evidence on crime by undocumented immigrants was thin when asked,False,,"Answer not settled when asked, or settled differently later"
+82,223,Crime Illegal Imm.,ICR-International Communications Research,telephone,05/27/04-08/02/04,False,Evidence on crime by undocumented immigrants was thin when asked,False,,"Answer not settled when asked, or settled differently later"
+83,121,Deficit Bush,Ipsos-Public Affairs,telephone,10/07-11/10,False,Conflates the deficit with the debt,False,,"Ambiguous wording, or a key that cannot be verified"
+84,123,Deficit Bush,Ipsos-Public Affairs,telephone,07/22-25/10,False,Conflates the deficit with the debt,False,,"Ambiguous wording, or a key that cannot be verified"
+85,122,Deficit Clinton,Ipsos-Public Affairs,telephone,10/07-11/10,False,Conflates the deficit with the debt; debt rose under Clinton,False,,"Ambiguous wording, or a key that cannot be verified"
+86,124,Deficit Clinton,Ipsos-Public Affairs,telephone,07/22-25/10,False,Conflates the deficit with the debt; debt rose under Clinton,False,,"Ambiguous wording, or a key that cannot be verified"
+87,197,GW Happening,Ipsos-Public Affairs,online,09/21-23/07,True,,False,,
+88,25,Obama Religion,Knowledge Networks,online,12/23/10-01/10/11,True,,True,,
+89,30,Obama Religion,Knowledge Networks,online,08/27/08-09/05/08,True,,True,,
+90,37,Obama Religion,Knowledge Networks,online,04/02-14/08,True,,True,,
+91,103,GW Happening,Knowledge Networks,online,05/14/10-06/01/10,True,,False,,
+92,104,GW Happening Cause,Knowledge Networks,online,05/14/10-06/01/10,False,Garbled option list; unclear whether volunteered 'both' was scored as wrong,False,,"Ambiguous wording, or a key that cannot be verified"
+93,9,Obama Citizenship,Knowledge Networks,online,11/06-15/10,True,,True,Some people have suggested he was not born in the United States,
+94,19,Obama Religion,Latino Decisions,telephone,11/27/11-12/04-11,True,,False,,
+95,133,Voter Fraud 2016,Morning Consult,online,01/26-28/17,True,,False,President Trump has said millions of votes were cast illegally,
+96,224,Voter Fraud 2016,Morning Consult/Politico,online,07/20-24/17,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+97,200,Obama Religion,Opinion Dynamics,telephone,07/22-23/08,True,,False,Some people believe he is secretly a Muslim,
+98,182,TARP,Opinion Research Corporation,telephone,04/23-26/10,False,Auto loans were repaid while equity stakes remained,False,,"Ambiguous wording, or a key that cannot be verified"
+99,183,TARP,Opinion Research Corporation,telephone,04/23-26/10,False,Bank repayments stood near half; 'most' and 'only some' are both defensible,False,,"Ambiguous wording, or a key that cannot be verified"
+100,86,ACA Death Panel,Opinion Research Corporation,telephone,08/14-17/09,True,,False,Refers to so-called 'death panels',
+101,2,Obama Citizenship,Opinion Research Corporation,telephone,04/29/11-05/01/11,True,,False,,
+102,7,Obama Citizenship,Opinion Research Corporation,telephone,03/11-13/11,True,,False,,
+103,10,Obama Citizenship,Opinion Research Corporation,telephone,07/16-21/10,True,,False,,
+104,117,Iraq Mil. Deaths,Opinion Research Corporation,telephone,10/16-19/09,True,,False,,
+105,119,Iraq Mil. Deaths,Opinion Research Corporation,telephone,03/26-29/09,True,,False,,
+106,120,Iraq Mil. Deaths,Opinion Research Corporation,telephone,08/16-19/07,True,,False,,
+107,152,Iraq Mil. Deaths,Opinion Research Corporation,telephone,04/04-07/08,True,,False,,
+108,153,Iraq Mil. Deaths,Opinion Research Corporation,telephone,02/28/08-03/02/08,True,,False,,
+109,154,Iraq Mil. Deaths,Opinion Research Corporation,telephone,06/22-25/07,True,,False,,
+110,205,Obama Citizenship,ORC International,telephone,09/04-08/15,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+111,14,Obama Religion,ORC International,telephone,09/04-08/15,True,,False,,
+112,91,Iraq 9/11,Peter D. Hart and Robert M. Teeter Research Companies,telephone,06/25-28/04,True,,False,,
+113,90,Iraq WMD,Peter D. Hart and Robert M. Teeter Research Companies,telephone,06/25-28/04,False,'Iraq had WMD' is true of the 1980s; the tense makes it ambiguous,False,,"Ambiguous wording, or a key that cannot be verified"
+114,93,Iraq Chemical Weapons,Princeton Survey Research Associates,telephone,01/03-06/03,False,"Asked in January 2003, before the absence of stockpiles was known",False,,"Answer not settled when asked, or settled differently later"
+115,92,Iraq WMD,Princeton Survey Research Associates,telephone,01/03-06/03,True,,False,,
+116,94,Iraq Al Qaeda,Princeton Survey Research Associates,telephone,01/03-06/03,False,Asked in January 2003; the relationship was contested,True,,"Answer not settled when asked, or settled differently later"
+117,221,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,04/01/05-05/01/05,False,Emergency Medicaid covers undocumented immigrants,False,,"Ambiguous wording, or a key that cannot be verified"
+118,22,Obama Religion,Princeton Survey Research Associates International,telephone,08/25-26/10,True,,False,,
+119,32,Obama Religion,Princeton Survey Research Associates International,telephone,06/18-19/08,True,,False,,
+120,34,Obama Religion,Princeton Survey Research Associates International,telephone,05/21-22/08,True,,False,,
+121,36,Obama Religion,Princeton Survey Research Associates International,telephone,04/24-25/08,True,,False,,
+122,201,Obama Religion,Princeton Survey Research Associates International,telephone,07/09-10/08,True,,False,,
+123,202,Obama Religion,Princeton Survey Research Associates International,telephone,07/09-10/08,False,Obama's childhood religious upbringing in Indonesia is disputed,False,,"Answer not settled when asked, or settled differently later"
+124,116,Unemployment Rate,Princeton Survey Research Associates International,telephone,11/11-14/10,True,,True,,
+125,16,Obama Religion,Princeton Survey Research Associates International,telephone,06/28/12-07/09/12,True,,False,,
+126,24,Obama Religion,Princeton Survey Research Associates International,telephone,07/21/10-08/05/10,True,,False,,
+127,26,Obama Religion,Princeton Survey Research Associates International,telephone,03/09-12/09,True,,False,,
+128,27,Obama Religion,Princeton Survey Research Associates International,telephone,10/16-19/08,True,,False,,
+129,29,Obama Religion,Princeton Survey Research Associates International,telephone,09/09-14/08,True,,False,,
+130,38,Obama Religion,Princeton Survey Research Associates International,telephone,03/19-22/08,True,,False,,
+131,33,Obama Religion,Princeton Survey Research Associates International,telephone,06/18-29/08,True,,False,,
+132,196,GW Happening Cause,Princeton Survey Research Associates International,online,01/10-13/13,False,Attribution of one year's records to human causes was debated,True,,"Answer not settled when asked, or settled differently later"
+133,112,GW Scientist Agreement,Princeton Survey Research Associates International,telephone,08/01-02/07,True,,False,,
+134,113,GW Scientist Agreement,Princeton Survey Research Associates International,telephone,08/01-02/07,True,,False,,
+135,87,Iraq 9/11,Princeton Survey Research Associates International,telephone,06/18-19/08,True,,False,,
+136,163,Iraq 9/11,Princeton Survey Research Associates International,telephone,09/30/04-10/02/04,True,,False,,
+137,164,Iraq 9/11,Princeton Survey Research Associates International,telephone,09/02-03/04,True,,False,,
+138,166,Iraq 9/11,Princeton Survey Research Associates International,telephone,01/29-30/04,True,,False,,
+139,167,Iraq 9/11,Princeton Survey Research Associates International,telephone,09/18-10/03,True,,False,,
+140,138,Vaccines,Princeton Survey Research Associates International,telephone,02/05-08/15,True,,False,,
+141,181,TARP,Princeton Survey Research Associates International,telephone,02/08-12/12,False,Principal was mostly but not wholly repaid while total returns exceeded outlays,False,,"Ambiguous wording, or a key that cannot be verified"
+142,89,Iraq 9/11,Princeton Survey Research Associates International,telephone,06/18-19/07,True,,True,,
+143,115,TARP,Princeton Survey Research Associates International,telephone,11/11-14/10,True,,True,,
+144,209,Obama Citizenship,Princeton Survey Research Associates International,telephone,04/07-10/11,True,,False,,
+145,88,Iraq Chemical Weapons,Princeton Survey Research Associates International,telephone,06/18-19/07,False,Old pre-1991 chemical munitions were later found,True,,"Answer not settled when asked, or settled differently later"
+146,75,ACA,Princeton Survey Research Associates International,telephone,09/12-18/13,True,,False,,
+147,82,ACA,Princeton Survey Research Associates International,telephone,09/12-18/13,True,,False,,
+148,55,ACA Death Panel,Princeton Survey Research Associates International,telephone,12/02-09/14,True,,False,,
+149,63,ACA Death Panel,Princeton Survey Research Associates International,telephone,03/11-17/14,True,,False,,
+150,78,ACA Death Panel,Princeton Survey Research Associates International,telephone,09/12-18/13,True,,False,,
+151,178,ACA Death Panel,Princeton Survey Research Associates International,telephone,03/05-10/13,True,,False,,
+152,179,ACA Death Panel,Princeton Survey Research Associates International,telephone,09/13-19/12,True,,False,,
+153,219,ACA Death Panel,Princeton Survey Research Associates International,telephone,06/09-14/11,True,,False,,
+154,54,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,12/02-09/14,True,,False,,
+155,59,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,03/11-17/14,True,,False,,
+156,76,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,09/12-18/13,True,,False,,
+157,174,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,03/06-12/17,True,,False,,
+158,175,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,03/05-10/13,True,,False,,
+159,176,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,02/14-19/13,True,,False,,
+160,177,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,12/01-06/10,True,,False,,
+161,220,ACA Illegal Imm.,Princeton Survey Research Associates International,telephone,02/14-19/13,True,,False,,
+162,151,Iraq Mil. Deaths,Princeton Survey Research Associates International,telephone,12/04-07/08,True,,False,,
+163,155,Iraq Mil. Deaths,Princeton Survey Research Associates International,telephone,02/01-13/07,True,,False,,
+164,156,Iraq Mil. Deaths,Princeton Survey Research Associates International,telephone,12/06-10/06,True,,False,,
+165,157,Iraq Mil. Deaths,Princeton Survey Research Associates International,telephone,04/07-16/06,True,,False,,
+166,158,Iraq Mil. Deaths,Princeton Survey Research Associates International,telephone,10/12-24/05,True,,False,,
+167,159,Iraq Mil. Deaths,Princeton Survey Research Associates International,telephone,06/08-12/05,True,,False,,
+168,160,Iraq Mil. Deaths,Princeton Survey Research Associates International,telephone,04/19/04-05/12/04,True,,False,,
+169,207,Obama Citizenship,Princeton Survey Research Associates International,telephone,04/28/11-05/01/11,False,Follow-up asked only of those who did not know,False,,"Open-ended, or asked only of those who did not know"
+170,18,Obama Religion,Public Religion Research Institute,telephone,05/02-06/12,True,,False,,
+171,20,Obama Religion,Public Religion Research Institute,telephone,07/14-17/11,True,,False,,
+172,211,GW Happening,Reuters,online,08/16/15-09/16/15,True,,True,,
+173,212,GW Scientist Agreement,Reuters,online,02/13-24/15,False,"Asks whether scientists 'speak with authority', an opinion",False,,Not a factual proposition with one right answer
+174,1,Obama Citizenship,Selzer & Co.,telephone,09/21-24/16,True,,False,,
+175,140,Vaccines,Social Science Research Solutions/ICR,telephone,09/14-20/09,False,Graded safety ratings have no single correct category,False,,Not a factual proposition with one right answer
+176,232,Russia Meddling,Techno Metrica Institute of Policy and Politics,telephone,05/30/17-06/06/17,False,Whether Russia changed the outcome is unknowable,False,,"Answer not settled when asked, or settled differently later"
+177,236,Russia Meddling,Techno Metrica Institute of Policy and Politics,telephone,03/24-30/17,False,Whether Russia changed the outcome is unknowable,False,,"Answer not settled when asked, or settled differently later"
+178,208,Obama Citizenship,Washington Post,telephone,04/28/11-05/01/11,False,Open-ended,False,,"Open-ended, or asked only of those who did not know"
+179,198,Deficit Obama,YouGov/Huffington Post,online,01/28-29/14,True,,True,,

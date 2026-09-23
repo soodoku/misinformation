@@ -1,0 +1,31 @@
+question,pattern,correct
+birth,don t know,
+birth,the us,TRUE
+birth,another country,FALSE
+religion,don t know,
+religion,christian,TRUE
+religion,muslim,FALSE
+illegal,don t know,
+illegal,^not give|^does not give,TRUE
+illegal,^give|^gives,FALSE
+death,don t know,
+death,^does not create,TRUE
+death,^creates,FALSE
+increase,don t know,
+increase,human activity,TRUE
+increase,natural variation,FALSE
+increase,staying about the same,FALSE
+science,don t know,
+science,global warming is occurring$,TRUE
+science,equally divided,FALSE
+science,global warming is not occurring$,FALSE
+fraud,don t know,
+fraud,^did not win,TRUE
+fraud,^win|^won,FALSE
+mmr,don t know,
+mmr,^not cause|^does not cause,TRUE
+mmr,^cause|^causes,FALSE
+deficit,don t know,
+deficit,decreased,TRUE
+deficit,increased,FALSE
+deficit,stayed about the same,FALSE

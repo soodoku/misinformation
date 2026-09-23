@@ -1,0 +1,11 @@
+id,topic,polling_firm,date,question,incorrect,confident_incorrect
+244,Obama Illegal Wiretapping,Economist/YouGov,03/06-07/17,Do you think it is true or false that former President Obama ordered wire taps on Donald Trump's phones?,0.3,0.09
+249,Russia Meddling,Economist/YouGov,06/04-06/17,Political Accusations - Russia hacked the email of Democrats in order to increase the chance that Donald Trump would win the Presidential election. Do you think the following statements are true or not true?,0.45,0.17
+251,Russia Meddling,Economist/YouGov,06/04-06/17,Political Accusations - Russia tampered with vote tallies in order to get Donald Trump elected President. Do you think the following statements are true or not true?,0.38,0.13
+256,Russia Meddling,Economist/YouGov,05/13-16/17,Conspiracy Theories - Russia hacked the email of Democrats in order to increase the chance that Donald Trump would win the Presidential election. Do you think the following statements are true or not true?,0.46,0.16
+258,Russia Meddling,Economist/YouGov,05/13-16/17,Conspiracy Theories - Russia tampered with vote tallies in order to get Donald Trump elected President. Do you think the following statements are true or not true?,0.35,0.11
+261,Russia Meddling,Economist/YouGov,07/09-11/17,Conspiracy Theories - Russia hacked the email of Democrats in order to increase the chance that Donald Trump would win the Presidential election. Do you think the following statements are true or not true?,0.43,0.17
+263,Russia Meddling,Economist/YouGov,07/09-11/17,Conspiracy Theories - Russia tampered with vote tallies in order to get Donald Trump elected President. Do you think the following statements are true or not true?,0.4,0.15
+250,Voter Fraud 2016,Economist/YouGov,06/04-06/17,Political Accusations - Millions of illegal votes were cast in the election. Do you think the following statements are true or not true?,0.43,0.12
+257,Voter Fraud 2016,Economist/YouGov,05/13-16/17,Conspiracy Theories - Millions of illegal votes were cast in the election. Do you think the following statements are true or not true?,0.43,0.1
+262,Voter Fraud 2016,Economist/YouGov,07/09-11/17,Conspiracy Theories - Millions of illegal votes were cast in the election. Do you think the following statements are true or not true?,0.46,0.17
