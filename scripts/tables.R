@@ -82,7 +82,8 @@ graded |>
     ),
     statement = dplyr::coalesce(statement, question),
     statement = stringr::str_remove(statement, "^Do you think it is true or false that "),
-    statement = latex_escape(stringr::str_remove(paste0(toupper(substr(statement, 1, 1)), substring(statement, 2)), "\\?$"))
+    statement = paste0(toupper(substr(statement, 1, 1)), substring(statement, 2)),
+    statement = latex_escape(stringr::str_remove(statement, "\\?$"))
   ) |>
   dplyr::transmute(statement, date, incorrect = round(100 * incorrect), confident = round(100 * confident_incorrect)) |>
   write_table("tabs/graded.tex", "p{8.5cm}lrr", c("Statement", "Fielded", "Wrong side", "Definitely wrong"))
