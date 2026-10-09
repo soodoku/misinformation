@@ -30,5 +30,5 @@ make restore   # install the package versions in renv.lock
 make check     # analysis, figures, tables, manuscript, lint, tests
 ```
 
-The companion paper, [The Waters of Casablanca](https://github.com/soodoku/waters-of-casablanca),
+The companion paper, [The Waters of Casablanca](https://github.com/finite-sample/waters-of-casablanca),
 develops the concept of misinformation and the 0-10 measure used here as a benchmark.
