@@ -1,7 +1,7 @@
 Package: misinformationaboutmisinformation
 Type: Project
 Title: Misinformation about Misinformation? Of Headlines and Survey Design
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person("Robert C.", "Luskin", role = "aut"),
     person("Gaurav", "Sood", role = c("aut", "cre"), email = "gsood07@gmail.com"),
