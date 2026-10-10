@@ -1,7 +1,7 @@
 .PHONY: restore analysis manuscript paper format lint test check ci-docker clean
 
 restore:
-	Rscript -e 'renv::restore(prompt = FALSE)'
+	Rscript --vanilla -e 'if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv", repos = "https://cloud.r-project.org"); renv::load(project = getwd()); renv::restore(prompt = FALSE)'
 
 analysis:
 	Rscript scripts/99_run_all.R
@@ -24,8 +24,7 @@ test: analysis
 check: paper lint test
 
 ci-docker:
-	docker run --rm -v "$(PWD):/project" -w /project rocker/verse:4.6.0 \
-		bash -lc "Rscript -e 'install.packages(\"renv\", repos = \"https://cloud.r-project.org\")' && make restore check"
+	docker run --rm -v "$(CURDIR):/project" -w /project rocker/verse:4.6.0 make restore check
 
 clean:
 	cd ms && latexmk -C main.tex
