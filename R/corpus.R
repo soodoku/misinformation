@@ -6,11 +6,11 @@ read_strict_csv <- function(path, ...) {
 
 # The 2018 corpus was saved as Windows-1252; question text is read as such.
 read_corpus <- function() {
-  path <- file.path("data", "raw", "media_poll_items_2018.csv")
+  path <- file.path(raw_dir, "media_poll_items_2018.csv")
   read_strict_csv(path, locale = readr::locale(encoding = "windows-1252"), name_repair = "minimal") |>
     dplyr::rename(id = 1) |>
     dplyr::select(id, question, n_options, mode) |>
-    dplyr::inner_join(read_strict_csv("docs/item_decisions.csv"), by = c("id", "mode")) |>
+    dplyr::inner_join(read_strict_csv(project_file("docs", "item_decisions.csv")), by = c("id", "mode")) |>
     assertr::assert(assertr::is_uniq, id) |>
     assertr::verify(length(id) == 180)
 }
@@ -46,9 +46,9 @@ key_response <- function(id, topic, response, rules, numeric) {
 
 score_corpus <- function(corpus) {
   kept <- dplyr::filter(corpus, keep)
-  rules <- read_strict_csv("docs/response_keys.csv")
-  numeric <- read_strict_csv("docs/numeric_keys.csv")
-  toplines <- read_strict_csv(file.path("data", "raw", "roper_toplines.csv"), col_types = readr::cols(RespPct = "c")) |>
+  rules <- read_strict_csv(project_file("docs", "response_keys.csv"))
+  numeric <- read_strict_csv(project_file("docs", "numeric_keys.csv"))
+  toplines <- read_strict_csv(file.path(raw_dir, "roper_toplines.csv"), col_types = readr::cols(RespPct = "c")) |>
     dplyr::semi_join(kept, by = "id") |>
     dplyr::left_join(dplyr::select(kept, id, topic), by = "id") |>
     # Roper prints "*" for shares under half a percent.
@@ -61,7 +61,7 @@ score_corpus <- function(corpus) {
     dplyr::summarise(share = sum(RespPct), .groups = "drop") |>
     tidyr::pivot_wider(names_from = key, values_from = share, values_fill = 0) |>
     dplyr::mutate(basis = "Roper topline")
-  manual <- read_strict_csv("docs/manual_shares.csv") |>
+  manual <- read_strict_csv(project_file("docs", "manual_shares.csv")) |>
     dplyr::select(id, correct, incorrect, dk, confident_correct, confident_incorrect, basis)
   scored <- dplyr::bind_rows(toplines, manual) |>
     dplyr::mutate(total = correct + incorrect + dk)

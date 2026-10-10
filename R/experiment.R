@@ -20,7 +20,7 @@ normalize_text <- function(x) {
 # Qualtrics puts two label rows under the header. The sample is U.S. MTurk
 # workers who consented, finished, and received a completion code.
 read_july <- function() {
-  path <- file.path("data", "raw", "mturk_july_2017.csv")
+  path <- file.path(raw_dir, "mturk_july_2017.csv")
   names <- names(readr::read_csv(path, n_max = 0, show_col_types = FALSE))
   readr::read_csv(path, skip = 3, col_names = names, col_types = readr::cols(.default = "c")) |>
     dplyr::filter(Finished == "True", consent == "I agree", ccode == "US", !is.na(mTurkCode)) |>
@@ -47,7 +47,7 @@ classify_mc <- function(response, options) {
 }
 
 mc_answers <- function(july) {
-  options <- read_strict_csv("docs/mc_options.csv")
+  options <- read_strict_csv(project_file("docs", "mc_options.csv"))
   asked <- dplyr::filter(july, arm != "scale")
   # Each respondent has answers only in their own arm's columns.
   purrr::map(july_items, \(item) {
@@ -69,7 +69,7 @@ mc_answers <- function(july) {
 # On the scale, misinformation is a rating at the wrong end (strict: 0 or 10;
 # lenient: also 1 or 9). "Not applicable" is the scale's don't know.
 scale_answers <- function(july) {
-  statements <- read_strict_csv("docs/scale_statements.csv")
+  statements <- read_strict_csv(project_file("docs", "scale_statements.csv"))
   july |>
     dplyr::filter(arm == "scale") |>
     dplyr::select(respondent = ResponseId, arm, pid, dplyr::all_of(statements$column)) |>

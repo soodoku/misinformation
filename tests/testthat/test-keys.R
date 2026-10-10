@@ -1,4 +1,5 @@
 root <- "../.."
+source(file.path(root, "scripts", "00_config.R"))
 purrr::walk(list.files(file.path(root, "R"), full.names = TRUE), source)
 rules <- readr::read_csv(file.path(root, "docs", "response_keys.csv"), show_col_types = FALSE)
 numeric <- readr::read_csv(file.path(root, "docs", "numeric_keys.csv"), show_col_types = FALSE)

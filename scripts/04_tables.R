@@ -1,5 +1,3 @@
-purrr::walk(list.files("R", full.names = TRUE), source)
-
 items <- read_tab("corpus_items.csv")
 features <- read_tab("corpus_features.csv")
 regression <- read_tab("corpus_regression.csv")
@@ -65,7 +63,7 @@ values <- c(
   deficitDk = pct(share("dk_offered", "deficit")), deficitFewer = pct(share("fewer_substantive", "deficit")),
   deficitScale = pct(share("scale_strict", "deficit"))
 )
-write_macros(values, "tabs/macros.tex")
+write_macros(values, file.path(table_dir, "macros.tex"))
 
 features |>
   dplyr::arrange(dplyr::desc(estimate)) |>
@@ -73,7 +71,7 @@ features |>
     label, successes, n,
     share = paste0(round(100 * estimate), " [", round(100 * lower), ", ", round(100 * upper), "]")
   ) |>
-  write_table("tabs/features.tex", "lrrl", c("Feature", "Items", "Of", "Percent [95\\% CI]"))
+  write_table(file.path(table_dir, "features.tex"), "lrrl", c("Feature", "Items", "Of", "Percent [95\\% CI]"))
 
 graded |>
   dplyr::mutate(
@@ -86,11 +84,20 @@ graded |>
     statement = latex_escape(stringr::str_remove(statement, "\\?$"))
   ) |>
   dplyr::transmute(statement, date, incorrect = round(100 * incorrect), confident = round(100 * confident_incorrect)) |>
-  write_table("tabs/graded.tex", "p{8.5cm}lrr", c("Statement", "Fielded", "Wrong side", "Definitely wrong"))
+  write_table(
+    file.path(table_dir, "graded.tex"), "p{8.5cm}lrr",
+    c("Statement", "Fielded", "Wrong side", "Definitely wrong")
+  )
 
-read_strict_csv("docs/item_decisions.csv") |>
+read_strict_csv(project_file("docs", "item_decisions.csv")) |>
   dplyr::filter(!keep) |>
   dplyr::count(drop_category) |>
   dplyr::arrange(dplyr::desc(n)) |>
   dplyr::transmute(reason = latex_escape(drop_category), n) |>
-  write_table("tabs/exclusions.tex", "p{11cm}r", c("Reason for exclusion", "Items"))
+  write_table(file.path(table_dir, "exclusions.tex"), "p{11cm}r", c("Reason for exclusion", "Items"))
+
+writeLines(paste0(
+  "\\newcommand{\\TableStyle}{\\", table_style$font_size,
+  "\\setlength{\\tabcolsep}{", table_style$column_padding,
+  "}\\renewcommand{\\arraystretch}{", table_style$row_stretch, "}}"
+), file.path(table_dir, "style.tex"))
