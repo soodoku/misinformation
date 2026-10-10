@@ -4,7 +4,7 @@
 |---|---|---|
 | `raw/media_poll_items_2018.csv` | 180 misinformation items from media polls, 2003-2017, with the authors' original 2018 coding | Compiled by the authors from the Roper Center's iPoll archive |
 | `raw/roper_toplines.csv` | Full response distributions for 133 of those items, one row per response category, with Roper question IDs | Roper Center iPoll |
-| `raw/mturk_july_2017.csv` | Survey experiment, Amazon Mechanical Turk, 9 July 2017 (Qualtrics export) | Same file as `data/turk/mam_mturk_070917.csv` in `soodoku/partisan-gaps` |
+| `raw/mturk_july_2017.csv` | Survey experiment, Amazon Mechanical Turk, 9 July 2017 (Qualtrics export) | Same file as `data/turk/mam_mturk_070917.csv` in `finite-sample/know_pgap_format` |
 
 `R/sources.R` checks each file against a SHA-256 hash before any analysis.
 
